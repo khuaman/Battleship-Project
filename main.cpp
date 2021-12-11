@@ -1,18 +1,33 @@
-#include "nave.h"
-#include "mapa.h"
+#include "jugador.h"
+#include<string>
 
 int main(){
 
+	Jugador *luchito = new Jugador();
+	Jugador *PC = new Jugador();
 
-	Mapa *mapa = new Mapa(10, 10);
+	string coor;
+	int x, y;
+	luchito -> mostrarEnemigo();
+	cin >> coor;
 
-	mapa -> generar();
+	while(coor != "-1"){
 
-	mapa -> ataque( { 5, 5} );
+		x = stoi( coor.substr(1, (int)coor.size() - 1) ) - 1;
+		y = toupper(coor[ 0 ]) - 'A';
+		cout << x << " " << y << endl;
 
-	mapa -> mostrar();
+		char respuesta = PC -> responder( {x , y} );
+		luchito -> setRespuesta( {x, y}, respuesta );
+		cout << "Respuesta: " << respuesta << endl;
+		luchito -> mostrarEnemigo();
+		cin >> coor;
+	}
 
-	delete mapa;
+	PC -> mostrar();
+
+	delete luchito;
+	delete PC;
 
 	return 0;
 }

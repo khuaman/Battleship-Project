@@ -107,14 +107,14 @@ public:
 		mapa[coords.F][coords.C] = zona;
 	}
 
-	bool ataque(point Acoords){
+	char ataque(point Acoords){
 		if( getZona(Acoords) && !(getZona(Acoords) -> agua) )
-			return getZona(Acoords) -> ataque(Acoords);
+			getZona(Acoords) -> ataque(Acoords);
 		else if( !getZona(Acoords) ){
 			setZona(Acoords, new Zona('.', Acoords));
 			fallas -> push_back( getZona(Acoords) );
 		}
-		return false;
+		return getZona(Acoords) -> signo(Acoords);
 	}
 
 	void generar(){
@@ -148,4 +148,5 @@ public:
 		delete mapa;
 	}
 
+	friend class Jugador;
 };
