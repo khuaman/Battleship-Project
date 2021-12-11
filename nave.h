@@ -11,23 +11,43 @@
 
 using namespace std;
 
-class Nave{
+class Zona{
+protected:
+	bool agua = true;
+	char codigo;
+	point coords;
+public:
+	Zona(char _codigo, point _coords){
+		codigo = _codigo;
+		coords = _coords;
+	}
+	virtual char signo(point _coords){
+		return codigo;
+	}
+	virtual bool ataque(point _coords){
+		return false;
+	};
+	virtual ~Zona(){
+		codigo = 0;
+		coords = {0, 0};
+	}
+	friend class Mapa;
+};
+
+class Nave: public Zona{
 
 private:
 
-	char codigo;
 	string nombre;
-	point coords;
 	bitset< 4 > estado;
 	char orientacion;
 	int len;
 
 public:
 
-	Nave(char _codigo ,char _orientacion, point _coords){
-		codigo = _codigo;
+	Nave(char _codigo ,char _orientacion, point _coords):Zona(_codigo, _coords){
+		agua = false;
 		orientacion = _orientacion;
-		coords = _coords;
 		switch( codigo ){
 		case 'A':
 			nombre = "Aircfratf Carrier";
@@ -50,6 +70,7 @@ public:
 	}
 
 	char signo(point _coord){
+		if( destruido() ) return 'X';
 		int i = max(_coord.C - coords.C,  _coord.F - coords.F);
 		return estado[ i ] ? codigo : 'Y';
 	}
@@ -91,7 +112,7 @@ public:
 	}
 
 	bool destruido(){
-		return estado.count();
+		return !estado.count();
 	}
 
 	~Nave(){
