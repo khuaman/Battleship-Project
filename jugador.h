@@ -24,11 +24,13 @@ class Jugador{
 	}
   }
 
+  string jugada();
+
   void setRespuesta(point coords, char respuesta){
 	enemigo[ coords.F ][ coords.C ] = respuesta;
   }
 
-  void mostrarEnemigo(){
+	void mostrarEnemigo(){
 
 		string espacio = "  ";
 
@@ -46,13 +48,14 @@ class Jugador{
 
   }
 
-  char responder( point coords ){
-	return mapa -> ataque( coords );
-  }
+	char responder( point coords ){
+		return mapa -> ataque( coords );
+	}
 
   void mostrar(){
 	mapa -> mostrar();
   }
+
 
   ~Jugador(){
 	delete mapa;
