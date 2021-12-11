@@ -40,18 +40,20 @@ public:
 
 	void mostrar(){
 
-		cout << "   ";
+		string espacio = "  ";
+
+		cout << espacio << "  ";
 		for( int j = 0; j < cols ; j++ )
-			cout << char('A' + j) << " ";
+			cout << char('A' + j) << espacio;
 		cout << endl;
 
 		for( int i = 0; i < rows ; i++ ){
-			cout << i + 1 << ( i < 11 ? "  ":"   " );
+			cout << i + 1 << ( i + 1 < 10 ? espacio + " " : espacio );
 			for( int j = 0; j < cols ; j++ ){
 				if( mapa[ i ][ j ] )
-					cout << (mapa[ i ][ j ] -> signo({i, j})) << " ";
+					cout << (mapa[ i ][ j ] -> signo({i, j})) << espacio;
 				else
-					cout << "  ";
+					cout << espacio + " ";
 			}
 			cout << endl;
 		}
@@ -115,16 +117,19 @@ public:
 		return false;
 	}
 
-	void generar(int naves){
+	void generar(){
 		srand(time(NULL));
-		for( int i = 0; i < naves; i++ ){
-			Nave *nave = nullptr;
-			do{
-				delete nave;
-				nave = nullptr;
-				nave = new Nave( "ABST"[rand()%4], "VH"[rand()%2], { rand()%rows , rand()%cols } );
-			} while(!validar_nave(nave));
-			registrar_nave( nave );
+
+		for( int i = 0; i < 4; i++ ){
+			for( int j = 0; j < i + 1 ; j++ ){
+				Nave *nave = nullptr;
+				do{
+					delete nave;
+					nave = nullptr;
+					nave = new Nave( "ABST"[i], "VH"[rand()%2], { rand()%rows , rand()%cols } );
+				} while(!validar_nave(nave));
+				registrar_nave( nave );
+			}
 		}
 	}
 
