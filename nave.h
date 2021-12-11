@@ -123,6 +123,7 @@ public:
 	}
 
 	friend class Mapa;
+	friend class Jugador;
 };
 
 #endif //NAVE_H

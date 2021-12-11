@@ -25,6 +25,19 @@ public:
 	}
 
 	string jugada();
+	string parse(point coord);
+	point dfs(point coord);
+
+	bool derrotado(){
+		for(auto nave: *(mapa -> naves))
+			if( !(nave -> destruido()))
+				return false;
+		return true;
+	}
+
+	char getVal(point coords){
+		return enemigo[ coords.F ][ coords.C ];
+	}
 
 	void setRespuesta(point coords, char respuesta){
 		enemigo[ coords.F ][ coords.C ] = respuesta;
@@ -55,7 +68,6 @@ public:
 	void mostrar(){
 		mapa -> mostrar();
 	}
-
 
 	~Jugador(){
 		delete mapa;

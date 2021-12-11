@@ -8,21 +8,19 @@ int main(){
 
 	string jugada;
 	int x, y;
-	luchito -> mostrarEnemigo();
 
-	jugada = luchito -> jugada();
 
 	int t = 1;
-	while(jugada != "-1"){
+	while(!(PC -> derrotado()) ){
 		cout << "Turno: " << t++ << endl;
+		luchito -> mostrarEnemigo();
+		jugada = luchito -> jugada();
 		x = stoi( jugada.substr(1, (int)jugada.size() - 1) ) - 1;
 		y = toupper(jugada[ 0 ]) - 'A';
 		cout << jugada << endl;
 		char respuesta = PC -> responder( {x , y} );
 		luchito -> setRespuesta( {x, y}, respuesta );
 		cout << "Respuesta: " << respuesta << endl;
-		luchito -> mostrarEnemigo();
-		jugada = luchito -> jugada();
 	}
 
 	PC -> mostrar();

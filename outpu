@@ -1,0 +1,1245 @@
+Turno: 1
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3                                 
+4                                 
+5                                 
+6                                 
+7                                 
+8                                 
+9                                 
+10                                
+100
+H9
+Respuesta: X
+Turno: 2
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3                                 
+4                                 
+5                                 
+6                                 
+7                                 
+8                                 
+9                        X        
+10                                
+99
+F5
+Respuesta: .
+Turno: 3
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3                                 
+4                                 
+5                  .              
+6                                 
+7                                 
+8                                 
+9                        X        
+10                                
+98
+I10
+Respuesta: .
+Turno: 4
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3                                 
+4                                 
+5                  .              
+6                                 
+7                                 
+8                                 
+9                        X        
+10                          .     
+97
+I1
+Respuesta: .
+Turno: 5
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2                                 
+3                                 
+4                                 
+5                  .              
+6                                 
+7                                 
+8                                 
+9                        X        
+10                          .     
+96
+E2
+Respuesta: .
+Turno: 6
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                                 
+4                                 
+5                  .              
+6                                 
+7                                 
+8                                 
+9                        X        
+10                          .     
+95
+C7
+Respuesta: .
+Turno: 7
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                                 
+4                                 
+5                  .              
+6                                 
+7         .                       
+8                                 
+9                        X        
+10                          .     
+94
+E9
+Respuesta: .
+Turno: 8
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                                 
+4                                 
+5                  .              
+6                                 
+7         .                       
+8                                 
+9               .        X        
+10                          .     
+93
+C10
+Respuesta: .
+Turno: 9
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                                 
+4                                 
+5                  .              
+6                                 
+7         .                       
+8                                 
+9               .        X        
+10        .                 .     
+92
+F3
+Respuesta: .
+Turno: 10
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5                  .              
+6                                 
+7         .                       
+8                                 
+9               .        X        
+10        .                 .     
+91
+F6
+Respuesta: Y
+Turno: 11
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5                  .              
+6                  Y              
+7         .                       
+8                                 
+9               .        X        
+10        .                 .     
+F7
+Respuesta: .
+Turno: 12
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5                  .              
+6                  Y              
+7         .        .              
+8                                 
+9               .        X        
+10        .                 .     
+E6
+Respuesta: Y
+Turno: 13
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5                  .              
+6               Y  Y              
+7         .        .              
+8                                 
+9               .        X        
+10        .                 .     
+D6
+Respuesta: .
+Turno: 14
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5                  .              
+6            .  Y  Y              
+7         .        .              
+8                                 
+9               .        X        
+10        .                 .     
+E5
+Respuesta: .
+Turno: 15
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5               .  .              
+6            .  Y  Y              
+7         .        .              
+8                                 
+9               .        X        
+10        .                 .     
+E7
+Respuesta: .
+Turno: 16
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5               .  .              
+6            .  Y  Y              
+7         .     .  .              
+8                                 
+9               .        X        
+10        .                 .     
+G6
+Respuesta: X
+Turno: 17
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5               .  .              
+6            .  Y  Y  X           
+7         .     .  .              
+8                                 
+9               .        X        
+10        .                 .     
+84
+G9
+Respuesta: X
+Turno: 18
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5               .  .              
+6            .  Y  Y  X           
+7         .     .  .              
+8                                 
+9               .     X  X        
+10        .                 .     
+83
+F9
+Respuesta: .
+Turno: 19
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5               .  .              
+6            .  Y  Y  X           
+7         .     .  .              
+8                                 
+9               .  .  X  X        
+10        .                 .     
+82
+E8
+Respuesta: .
+Turno: 20
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5               .  .              
+6            .  Y  Y  X           
+7         .     .  .              
+8               .                 
+9               .  .  X  X        
+10        .                 .     
+81
+D8
+Respuesta: Y
+Turno: 21
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5               .  .              
+6            .  Y  Y  X           
+7         .     .  .              
+8            Y  .                 
+9               .  .  X  X        
+10        .                 .     
+D7
+Respuesta: .
+Turno: 22
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5               .  .              
+6            .  Y  Y  X           
+7         .  .  .  .              
+8            Y  .                 
+9               .  .  X  X        
+10        .                 .     
+D9
+Respuesta: .
+Turno: 23
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5               .  .              
+6            .  Y  Y  X           
+7         .  .  .  .              
+8            Y  .                 
+9            .  .  .  X  X        
+10        .                 .     
+C8
+Respuesta: Y
+Turno: 24
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5               .  .              
+6            .  Y  Y  X           
+7         .  .  .  .              
+8         Y  Y  .                 
+9            .  .  .  X  X        
+10        .                 .     
+B8
+Respuesta: Y
+Turno: 25
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5               .  .              
+6            .  Y  Y  X           
+7         .  .  .  .              
+8      Y  Y  Y  .                 
+9            .  .  .  X  X        
+10        .                 .     
+A8
+Respuesta: X
+Turno: 26
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5               .  .              
+6            .  Y  Y  X           
+7         .  .  .  .              
+8   X  Y  Y  Y  .                 
+9            .  .  .  X  X        
+10        .                 .     
+B7
+Respuesta: .
+Turno: 27
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5               .  .              
+6            .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9            .  .  .  X  X        
+10        .                 .     
+B9
+Respuesta: .
+Turno: 28
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5               .  .              
+6            .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9      .     .  .  .  X  X        
+10        .                 .     
+C9
+Respuesta: .
+Turno: 29
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3                  .              
+4                                 
+5               .  .              
+6            .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9      .  .  .  .  .  X  X        
+10        .                 .     
+72
+D3
+Respuesta: .
+Turno: 30
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3            .     .              
+4                                 
+5               .  .              
+6            .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9      .  .  .  .  .  X  X        
+10        .                 .     
+71
+A5
+Respuesta: .
+Turno: 31
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2               .                 
+3            .     .              
+4                                 
+5   .           .  .              
+6            .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9      .  .  .  .  .  X  X        
+10        .                 .     
+70
+F1
+Respuesta: .
+Turno: 32
+    A  B  C  D  E  F  G  H  I  J  
+1                  .        .     
+2               .                 
+3            .     .              
+4                                 
+5   .           .  .              
+6            .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9      .  .  .  .  .  X  X        
+10        .                 .     
+69
+H1
+Respuesta: Y
+Turno: 33
+    A  B  C  D  E  F  G  H  I  J  
+1                  .     Y  .     
+2               .                 
+3            .     .              
+4                                 
+5   .           .  .              
+6            .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9      .  .  .  .  .  X  X        
+10        .                 .     
+H2
+Respuesta: .
+Turno: 34
+    A  B  C  D  E  F  G  H  I  J  
+1                  .     Y  .     
+2               .        .        
+3            .     .              
+4                                 
+5   .           .  .              
+6            .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9      .  .  .  .  .  X  X        
+10        .                 .     
+G1
+Respuesta: X
+Turno: 35
+    A  B  C  D  E  F  G  H  I  J  
+1                  .  X  Y  .     
+2               .        .        
+3            .     .              
+4                                 
+5   .           .  .              
+6            .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9      .  .  .  .  .  X  X        
+10        .                 .     
+66
+I3
+Respuesta: .
+Turno: 36
+    A  B  C  D  E  F  G  H  I  J  
+1                  .  X  Y  .     
+2               .        .        
+3            .     .        .     
+4                                 
+5   .           .  .              
+6            .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9      .  .  .  .  .  X  X        
+10        .                 .     
+65
+F2
+Respuesta: .
+Turno: 37
+    A  B  C  D  E  F  G  H  I  J  
+1                  .  X  Y  .     
+2               .  .     .        
+3            .     .        .     
+4                                 
+5   .           .  .              
+6            .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9      .  .  .  .  .  X  X        
+10        .                 .     
+64
+A6
+Respuesta: .
+Turno: 38
+    A  B  C  D  E  F  G  H  I  J  
+1                  .  X  Y  .     
+2               .  .     .        
+3            .     .        .     
+4                                 
+5   .           .  .              
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9      .  .  .  .  .  X  X        
+10        .                 .     
+63
+B2
+Respuesta: .
+Turno: 39
+    A  B  C  D  E  F  G  H  I  J  
+1                  .  X  Y  .     
+2      .        .  .     .        
+3            .     .        .     
+4                                 
+5   .           .  .              
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9      .  .  .  .  .  X  X        
+10        .                 .     
+62
+I2
+Respuesta: .
+Turno: 40
+    A  B  C  D  E  F  G  H  I  J  
+1                  .  X  Y  .     
+2      .        .  .     .  .     
+3            .     .        .     
+4                                 
+5   .           .  .              
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9      .  .  .  .  .  X  X        
+10        .                 .     
+61
+I9
+Respuesta: .
+Turno: 41
+    A  B  C  D  E  F  G  H  I  J  
+1                  .  X  Y  .     
+2      .        .  .     .  .     
+3            .     .        .     
+4                                 
+5   .           .  .              
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9      .  .  .  .  .  X  X  .     
+10        .                 .     
+60
+E1
+Respuesta: .
+Turno: 42
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .     
+2      .        .  .     .  .     
+3            .     .        .     
+4                                 
+5   .           .  .              
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9      .  .  .  .  .  X  X  .     
+10        .                 .     
+59
+F4
+Respuesta: .
+Turno: 43
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .     
+2      .        .  .     .  .     
+3            .     .        .     
+4                  .              
+5   .           .  .              
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9      .  .  .  .  .  X  X  .     
+10        .                 .     
+58
+G3
+Respuesta: .
+Turno: 44
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .     
+2      .        .  .     .  .     
+3            .     .  .     .     
+4                  .              
+5   .           .  .              
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .                 
+9      .  .  .  .  .  X  X  .     
+10        .                 .     
+57
+I8
+Respuesta: .
+Turno: 45
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .     
+2      .        .  .     .  .     
+3            .     .  .     .     
+4                  .              
+5   .           .  .              
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .           .     
+9      .  .  .  .  .  X  X  .     
+10        .                 .     
+56
+J5
+Respuesta: .
+Turno: 46
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .     
+2      .        .  .     .  .     
+3            .     .  .     .     
+4                  .              
+5   .           .  .           .  
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .           .     
+9      .  .  .  .  .  X  X  .     
+10        .                 .     
+55
+J1
+Respuesta: .
+Turno: 47
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .        .  .     .  .     
+3            .     .  .     .     
+4                  .              
+5   .           .  .           .  
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .           .     
+9      .  .  .  .  .  X  X  .     
+10        .                 .     
+54
+D2
+Respuesta: .
+Turno: 48
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .     
+3            .     .  .     .     
+4                  .              
+5   .           .  .           .  
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .           .     
+9      .  .  .  .  .  X  X  .     
+10        .                 .     
+53
+H10
+Respuesta: .
+Turno: 49
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .     
+3            .     .  .     .     
+4                  .              
+5   .           .  .           .  
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .           .     
+9      .  .  .  .  .  X  X  .     
+10        .              .  .     
+52
+H3
+Respuesta: .
+Turno: 50
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .     
+3            .     .  .  .  .     
+4                  .              
+5   .           .  .           .  
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .           .     
+9      .  .  .  .  .  X  X  .     
+10        .              .  .     
+51
+G10
+Respuesta: .
+Turno: 51
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .     
+3            .     .  .  .  .     
+4                  .              
+5   .           .  .           .  
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .           .     
+9      .  .  .  .  .  X  X  .     
+10        .           .  .  .     
+50
+B4
+Respuesta: .
+Turno: 52
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .     
+3            .     .  .  .  .     
+4      .           .              
+5   .           .  .           .  
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .           .     
+9      .  .  .  .  .  X  X  .     
+10        .           .  .  .     
+49
+D4
+Respuesta: Y
+Turno: 53
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .     
+3            .     .  .  .  .     
+4      .     Y     .              
+5   .           .  .           .  
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .           .     
+9      .  .  .  .  .  X  X  .     
+10        .           .  .  .     
+D5
+Respuesta: X
+Turno: 54
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .     
+3            .     .  .  .  .     
+4      .     Y     .              
+5   .        X  .  .           .  
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .           .     
+9      .  .  .  .  .  X  X  .     
+10        .           .  .  .     
+C4
+Respuesta: .
+Turno: 55
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .     
+3            .     .  .  .  .     
+4      .  .  Y     .              
+5   .        X  .  .           .  
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .           .     
+9      .  .  .  .  .  X  X  .     
+10        .           .  .  .     
+E4
+Respuesta: .
+Turno: 56
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .     
+3            .     .  .  .  .     
+4      .  .  Y  .  .              
+5   .        X  .  .           .  
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .           .     
+9      .  .  .  .  .  X  X  .     
+10        .           .  .  .     
+45
+J9
+Respuesta: .
+Turno: 57
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .     
+3            .     .  .  .  .     
+4      .  .  Y  .  .              
+5   .        X  .  .           .  
+6   .        .  Y  Y  X           
+7      .  .  .  .  .              
+8   X  Y  Y  Y  .           .     
+9      .  .  .  .  .  X  X  .  .  
+10        .           .  .  .     
+44
+A7
+Respuesta: .
+Turno: 58
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .     
+3            .     .  .  .  .     
+4      .  .  Y  .  .              
+5   .        X  .  .           .  
+6   .        .  Y  Y  X           
+7   .  .  .  .  .  .              
+8   X  Y  Y  Y  .           .     
+9      .  .  .  .  .  X  X  .  .  
+10        .           .  .  .     
+43
+C6
+Respuesta: .
+Turno: 59
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .     
+3            .     .  .  .  .     
+4      .  .  Y  .  .              
+5   .        X  .  .           .  
+6   .     .  .  Y  Y  X           
+7   .  .  .  .  .  .              
+8   X  Y  Y  Y  .           .     
+9      .  .  .  .  .  X  X  .  .  
+10        .           .  .  .     
+42
+J2
+Respuesta: .
+Turno: 60
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .  .  
+3            .     .  .  .  .     
+4      .  .  Y  .  .              
+5   .        X  .  .           .  
+6   .     .  .  Y  Y  X           
+7   .  .  .  .  .  .              
+8   X  Y  Y  Y  .           .     
+9      .  .  .  .  .  X  X  .  .  
+10        .           .  .  .     
+41
+G8
+Respuesta: .
+Turno: 61
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .  .  
+3            .     .  .  .  .     
+4      .  .  Y  .  .              
+5   .        X  .  .           .  
+6   .     .  .  Y  Y  X           
+7   .  .  .  .  .  .              
+8   X  Y  Y  Y  .     .     .     
+9      .  .  .  .  .  X  X  .  .  
+10        .           .  .  .     
+40
+I5
+Respuesta: Y
+Turno: 62
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .  .  
+3            .     .  .  .  .     
+4      .  .  Y  .  .              
+5   .        X  .  .        Y  .  
+6   .     .  .  Y  Y  X           
+7   .  .  .  .  .  .              
+8   X  Y  Y  Y  .     .     .     
+9      .  .  .  .  .  X  X  .  .  
+10        .           .  .  .     
+I4
+Respuesta: .
+Turno: 63
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .  .  
+3            .     .  .  .  .     
+4      .  .  Y  .  .        .     
+5   .        X  .  .        Y  .  
+6   .     .  .  Y  Y  X           
+7   .  .  .  .  .  .              
+8   X  Y  Y  Y  .     .     .     
+9      .  .  .  .  .  X  X  .  .  
+10        .           .  .  .     
+I6
+Respuesta: Y
+Turno: 64
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .  .  
+3            .     .  .  .  .     
+4      .  .  Y  .  .        .     
+5   .        X  .  .        Y  .  
+6   .     .  .  Y  Y  X     Y     
+7   .  .  .  .  .  .              
+8   X  Y  Y  Y  .     .     .     
+9      .  .  .  .  .  X  X  .  .  
+10        .           .  .  .     
+H5
+Respuesta: X
+Turno: 65
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .  .  
+3            .     .  .  .  .     
+4      .  .  Y  .  .        .     
+5   .        X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X     Y     
+7   .  .  .  .  .  .              
+8   X  Y  Y  Y  .     .     .     
+9      .  .  .  .  .  X  X  .  .  
+10        .           .  .  .     
+I7
+Respuesta: X
+Turno: 66
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .  .  
+3            .     .  .  .  .     
+4      .  .  Y  .  .        .     
+5   .        X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X     Y     
+7   .  .  .  .  .  .        X     
+8   X  Y  Y  Y  .     .     .     
+9      .  .  .  .  .  X  X  .  .  
+10        .           .  .  .     
+H6
+Respuesta: .
+Turno: 67
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .  .  
+3            .     .  .  .  .     
+4      .  .  Y  .  .        .     
+5   .        X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X  .  Y     
+7   .  .  .  .  .  .        X     
+8   X  Y  Y  Y  .     .     .     
+9      .  .  .  .  .  X  X  .  .  
+10        .           .  .  .     
+J6
+Respuesta: .
+Turno: 68
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .  .  
+3            .     .  .  .  .     
+4      .  .  Y  .  .        .     
+5   .        X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X  .  Y  .  
+7   .  .  .  .  .  .        X     
+8   X  Y  Y  Y  .     .     .     
+9      .  .  .  .  .  X  X  .  .  
+10        .           .  .  .     
+33
+F10
+Respuesta: .
+Turno: 69
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .  .  
+3            .     .  .  .  .     
+4      .  .  Y  .  .        .     
+5   .        X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X  .  Y  .  
+7   .  .  .  .  .  .        X     
+8   X  Y  Y  Y  .     .     .     
+9      .  .  .  .  .  X  X  .  .  
+10        .        .  .  .  .     
+32
+A4
+Respuesta: .
+Turno: 70
+    A  B  C  D  E  F  G  H  I  J  
+1               .  .  X  Y  .  .  
+2      .     .  .  .     .  .  .  
+3            .     .  .  .  .     
+4   .  .  .  Y  .  .        .     
+5   .        X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X  .  Y  .  
+7   .  .  .  .  .  .        X     
+8   X  Y  Y  Y  .     .     .     
+9      .  .  .  .  .  X  X  .  .  
+10        .        .  .  .  .     
+31
+D1
+Respuesta: .
+Turno: 71
+    A  B  C  D  E  F  G  H  I  J  
+1            .  .  .  X  Y  .  .  
+2      .     .  .  .     .  .  .  
+3            .     .  .  .  .     
+4   .  .  .  Y  .  .        .     
+5   .        X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X  .  Y  .  
+7   .  .  .  .  .  .        X     
+8   X  Y  Y  Y  .     .     .     
+9      .  .  .  .  .  X  X  .  .  
+10        .        .  .  .  .     
+30
+C1
+Respuesta: .
+Turno: 72
+    A  B  C  D  E  F  G  H  I  J  
+1         .  .  .  .  X  Y  .  .  
+2      .     .  .  .     .  .  .  
+3            .     .  .  .  .     
+4   .  .  .  Y  .  .        .     
+5   .        X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X  .  Y  .  
+7   .  .  .  .  .  .        X     
+8   X  Y  Y  Y  .     .     .     
+9      .  .  .  .  .  X  X  .  .  
+10        .        .  .  .  .     
+29
+E3
+Respuesta: .
+Turno: 73
+    A  B  C  D  E  F  G  H  I  J  
+1         .  .  .  .  X  Y  .  .  
+2      .     .  .  .     .  .  .  
+3            .  .  .  .  .  .     
+4   .  .  .  Y  .  .        .     
+5   .        X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X  .  Y  .  
+7   .  .  .  .  .  .        X     
+8   X  Y  Y  Y  .     .     .     
+9      .  .  .  .  .  X  X  .  .  
+10        .        .  .  .  .     
+28
+H8
+Respuesta: Y
+Turno: 74
+    A  B  C  D  E  F  G  H  I  J  
+1         .  .  .  .  X  Y  .  .  
+2      .     .  .  .     .  .  .  
+3            .  .  .  .  .  .     
+4   .  .  .  Y  .  .        .     
+5   .        X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X  .  Y  .  
+7   .  .  .  .  .  .        X     
+8   X  Y  Y  Y  .     .  Y  .     
+9      .  .  .  .  .  X  X  .  .  
+10        .        .  .  .  .     
+H7
+Respuesta: X
+Turno: 75
+    A  B  C  D  E  F  G  H  I  J  
+1         .  .  .  .  X  Y  .  .  
+2      .     .  .  .     .  .  .  
+3            .  .  .  .  .  .     
+4   .  .  .  Y  .  .        .     
+5   .        X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X  .  Y  .  
+7   .  .  .  .  .  .     X  X     
+8   X  Y  Y  Y  .     .  Y  .     
+9      .  .  .  .  .  X  X  .  .  
+10        .        .  .  .  .     
+26
+J10
+Respuesta: .
+Turno: 76
+    A  B  C  D  E  F  G  H  I  J  
+1         .  .  .  .  X  Y  .  .  
+2      .     .  .  .     .  .  .  
+3            .  .  .  .  .  .     
+4   .  .  .  Y  .  .        .     
+5   .        X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X  .  Y  .  
+7   .  .  .  .  .  .     X  X     
+8   X  Y  Y  Y  .     .  Y  .     
+9      .  .  .  .  .  X  X  .  .  
+10        .        .  .  .  .  .  
+25
+G2
+Respuesta: .
+Turno: 77
+    A  B  C  D  E  F  G  H  I  J  
+1         .  .  .  .  X  Y  .  .  
+2      .     .  .  .  .  .  .  .  
+3            .  .  .  .  .  .     
+4   .  .  .  Y  .  .        .     
+5   .        X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X  .  Y  .  
+7   .  .  .  .  .  .     X  X     
+8   X  Y  Y  Y  .     .  Y  .     
+9      .  .  .  .  .  X  X  .  .  
+10        .        .  .  .  .  .  
+24
+E10
+Respuesta: .
+Turno: 78
+    A  B  C  D  E  F  G  H  I  J  
+1         .  .  .  .  X  Y  .  .  
+2      .     .  .  .  .  .  .  .  
+3            .  .  .  .  .  .     
+4   .  .  .  Y  .  .        .     
+5   .        X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X  .  Y  .  
+7   .  .  .  .  .  .     X  X     
+8   X  Y  Y  Y  .     .  Y  .     
+9      .  .  .  .  .  X  X  .  .  
+10        .     .  .  .  .  .  .  
+23
+B5
+Respuesta: .
+Turno: 79
+    A  B  C  D  E  F  G  H  I  J  
+1         .  .  .  .  X  Y  .  .  
+2      .     .  .  .  .  .  .  .  
+3            .  .  .  .  .  .     
+4   .  .  .  Y  .  .        .     
+5   .  .     X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X  .  Y  .  
+7   .  .  .  .  .  .     X  X     
+8   X  Y  Y  Y  .     .  Y  .     
+9      .  .  .  .  .  X  X  .  .  
+10        .     .  .  .  .  .  .  
+22
+H4
+Respuesta: .
+Turno: 80
+    A  B  C  D  E  F  G  H  I  J  
+1         .  .  .  .  X  Y  .  .  
+2      .     .  .  .  .  .  .  .  
+3            .  .  .  .  .  .     
+4   .  .  .  Y  .  .     .  .     
+5   .  .     X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X  .  Y  .  
+7   .  .  .  .  .  .     X  X     
+8   X  Y  Y  Y  .     .  Y  .     
+9      .  .  .  .  .  X  X  .  .  
+10        .     .  .  .  .  .  .  
+21
+G7
+Respuesta: .
+Turno: 81
+    A  B  C  D  E  F  G  H  I  J  
+1         .  .  .  .  X  Y  .  .  
+2      .     .  .  .  .  .  .  .  
+3            .  .  .  .  .  .     
+4   .  .  .  Y  .  .     .  .     
+5   .  .     X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X  .  Y  .  
+7   .  .  .  .  .  .  .  X  X     
+8   X  Y  Y  Y  .     .  Y  .     
+9      .  .  .  .  .  X  X  .  .  
+10        .     .  .  .  .  .  .  
+20
+J8
+Respuesta: .
+Turno: 82
+    A  B  C  D  E  F  G  H  I  J  
+1         .  .  .  .  X  Y  .  .  
+2      .     .  .  .  .  .  .  .  
+3            .  .  .  .  .  .     
+4   .  .  .  Y  .  .     .  .     
+5   .  .     X  .  .     X  Y  .  
+6   .     .  .  Y  Y  X  .  Y  .  
+7   .  .  .  .  .  .  .  X  X     
+8   X  Y  Y  Y  .     .  Y  .  .  
+9      .  .  .  .  .  X  X  .  .  
+10        .     .  .  .  .  .  .  
+19
+G5
+Respuesta: .
+Turno: 83
+    A  B  C  D  E  F  G  H  I  J  
+1         .  .  .  .  X  Y  .  .  
+2      .     .  .  .  .  .  .  .  
+3            .  .  .  .  .  .     
+4   .  .  .  Y  .  .     .  .     
+5   .  .     X  .  .  .  X  Y  .  
+6   .     .  .  Y  Y  X  .  Y  .  
+7   .  .  .  .  .  .  .  X  X     
+8   X  Y  Y  Y  .     .  Y  .  .  
+9      .  .  .  .  .  X  X  .  .  
+10        .     .  .  .  .  .  .  
+18
+B6
+Respuesta: .
+Turno: 84
+    A  B  C  D  E  F  G  H  I  J  
+1         .  .  .  .  X  Y  .  .  
+2      .     .  .  .  .  .  .  .  
+3            .  .  .  .  .  .     
+4   .  .  .  Y  .  .     .  .     
+5   .  .     X  .  .  .  X  Y  .  
+6   .  .  .  .  Y  Y  X  .  Y  .  
+7   .  .  .  .  .  .  .  X  X     
+8   X  Y  Y  Y  .     .  Y  .  .  
+9      .  .  .  .  .  X  X  .  .  
+10        .     .  .  .  .  .  .  
+17
+B3
+Respuesta: X
+    A  B  C  D  E  F  G  H  I  J  
+1         .  .  .  .  X  X  .  .  
+2      .     .  .  .  .  .  .  .  
+3      X     .  .  .  .  .  .     
+4   .  .  .  X  .  .     .  .     
+5   .  .     X  .  .  .  X  X  .  
+6   .  .  .  .  X  X  X  .  X  .  
+7   .  .  .  .  .  .  .  X  X     
+8   X  X  X  X  .     .  X  .  .  
+9      .  .  .  .  .  X  X  .  .  
+10        .     .  .  .  .  .  .  
