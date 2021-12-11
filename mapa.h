@@ -1,4 +1,7 @@
 #include "nave.h"
+#include <cstdlib>
+#include <ctime>
+#include <vector>
 
 #define F first
 #define C second
@@ -11,6 +14,7 @@ class Mapa{
 private:
 
   Nave ***mapa;
+  vector< Nave* >* naves;
   int rows;
   int cols;
 
@@ -18,6 +22,7 @@ public:
 
   Mapa(int _cols, int _rows){
 
+	naves = new vector<Nave *>();
 	cols = _cols;
 	rows = _rows;
 
@@ -72,8 +77,11 @@ public:
 
 	if( !validar_nave(nave) ){
 	  cout << "No se pudo registrar la nave." << endl;
+	  delete nave;
 	  return;
 	}
+
+	naves -> push_back(nave);
 
 	point coords = nave -> coords;
 	int len = nave -> len;
@@ -98,9 +106,27 @@ public:
 	  return false;
   }
 
+  void generar(int naves){
+	srand(time(NULL));
+	for( int i = 0; i < naves; i++ ){
+	  Nave *nave = nullptr;
+	  do{
+		delete nave;
+		nave = nullptr;
+		nave = new Nave( "ABST"[rand()%4], "VH"[rand()%2], { rand()%rows , rand()%cols } );
+	  } while(!validar_nave(nave));
+	  registrar_nave( nave );
+	}
+  }
+
   ~Mapa(){
 	for( int i = 0 ; i < rows ; i++ )
 	  delete mapa[ i ];
+
+	for( auto s: (*naves) )
+	  delete s;
+
+	delete naves;
 	delete mapa;
   }
 
