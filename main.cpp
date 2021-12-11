@@ -1,19 +1,24 @@
 #include "nave.h"
+#include "mapa.h"
 
 int main(){
 
-	Nave *luchita = new Nave( 'A' , 'V' , {0, 0} );
 
-	// AAAA
+	Mapa *mapa = new Mapa(10, 10);
 
-	luchita -> mostrar();
-	if( luchita -> ataque({ 1 , 0 }) )
-		cout << "Ataque realizado" << endl;
-	else
-		cout << "Ataque fallido" << endl;
-	luchita -> mostrar();
+	Nave *naveA = new Nave('A', 'H', {0, 0});
+	Nave *naveB = new Nave('B', 'V', {1, 0});
 
-	delete luchita;
+	mapa -> registrar_nave(naveA);
+	mapa -> registrar_nave(naveB);
+
+	mapa -> ataque({0, 0});
+
+	mapa -> mostrar();
+
+	delete mapa;
+	delete naveA;
+	delete naveB;
 
 	return 0;
 }

@@ -13,87 +13,95 @@ using namespace std;
 
 class Nave{
 
- private:
+private:
 
-  char codigo;
-  string nombre;
-  point coords;
-  bitset< 4 > estado;
-  char orientacion;
-  int len;
+	char codigo;
+	string nombre;
+	point coords;
+	bitset< 4 > estado;
+	char orientacion;
+	int len;
 
- public:
+public:
 
-  Nave(char _codigo ,char _orientacion, point _coords){
-	codigo = _codigo;
-	orientacion = _orientacion;
-	coords = _coords;
-	switch( codigo ){
-	case 'A':
-	  nombre = "Aircfratf Carrier";
-	  len = 4;
-	  break;
-	case 'B':
-	  nombre = "Battlecrucier";
-	  len = 3;
-	  break;
-	case 'S':
-	  nombre = "Submarine";
-	  len = 2;
-	  break;
-	case 'T':
-	  nombre = "Torpedo boat";
-	  len = 1;
-	  break;
+	Nave(char _codigo ,char _orientacion, point _coords){
+		codigo = _codigo;
+		orientacion = _orientacion;
+		coords = _coords;
+		switch( codigo ){
+		case 'A':
+			nombre = "Aircfratf Carrier";
+			len = 4;
+			break;
+		case 'B':
+			nombre = "Battlecrucier";
+			len = 3;
+			break;
+		case 'S':
+			nombre = "Submarine";
+			len = 2;
+			break;
+		case 'T':
+			nombre = "Torpedo boat";
+			len = 1;
+			break;
+		}
+		estado = (1 << len) - 1;
 	}
-	estado = (1 << len) - 1;
-  }
 
-  void mostrar(){
-	cout << "Nave " << nombre << endl;
-	cout << "Ubicada en :(" << coords.C << ", " << coords.F << ")" << endl;
-	for( int i = 0; i < len ; i++ )
-	  cout << (estado[ i ] ? codigo : 'Y') << ( orientacion == 'H' ? "":"\n" );
-	cout << endl;
-  }
+	char signo(point _coord){
+		int i = max(_coord.C - coords.C,  _coord.F - coords.F);
+		return estado[ i ] ? codigo : 'Y';
+	}
 
-  bool ataque(point ataque){
+	void mostrar(){
+		cout << "Nave " << nombre << endl;
+		cout << "Ubicada en :(" << coords.C << ", " << coords.F << ")" << endl;
+		for( int i = 0; i < len ; i++ )
+			cout << (estado[ i ] ? codigo : 'Y') << ( orientacion == 'H' ? "":"\n" );
+		cout << endl;
+	}
 
-	point Rcoord;
-	Rcoord.C = ataque.C - coords.C;
-	Rcoord.F = ataque.F - coords.F;
+	bool ataque(point ataque){
 
-	if( Rcoord.C < 0 || Rcoord.F < 0 ) return false;
+		point Rcoord;
+		Rcoord.C = ataque.C - coords.C;
+		Rcoord.F = ataque.F - coords.F;
 
-	if( orientacion == 'V' ){
+		if( Rcoord.C < 0 || Rcoord.F < 0 ) return false;
 
-	  if( Rcoord.C || Rcoord.F >= len )
+		if( orientacion == 'V' ){
+
+		  if( Rcoord.C || Rcoord.F >= len )
+			  return false;
+
+		  estado[ Rcoord.F ] = 0;
+		  return true;
+		}
+
+		if( orientacion == 'H' ){
+			if( Rcoord.F || Rcoord.C >= len )
+				return false;
+
+			estado[ Rcoord.C ] = 0;
+			return true;
+		}
+
 		return false;
-
-	  estado[ Rcoord.F ] = 0;
-	  return true;
 	}
 
-	if( orientacion == 'H' ){
-	  if( Rcoord.F || Rcoord.C >= len )
-		return false;
-	  estado[ Rcoord.C ] = 0;
-	  return true;
+	bool destruido(){
+		return estado.count();
 	}
 
-	return false;
-  }
+	~Nave(){
+		codigo  = orientacion = 0;
+		estado.reset();
+		coords = {0, 0};
+		nombre = "";
+	}
 
-  bool destruido(){
-	return estado.count();
-  }
-
-  ~Nave(){
-	codigo  = orientacion = 0;
-	estado.reset();
-	coords = {0, 0};
-	nombre = "";
-  }
+	friend class Mapa;
 };
 
 #endif //NAVE_H
