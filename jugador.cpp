@@ -69,18 +69,19 @@ string Jugador::jugada(){
 		}
 
 	// Dar vacio random
-	vector< point > vacios;
+	vector< point > vacios[ 2 ];
 	rep(i, rows)
 		rep(j, cols)
 		if( enemigo[ i ][ j ] == ' ' )
-			vacios.push_back( {i, j} );
+			vacios[ (i + j) % 2 ].push_back( {i, j} );
 
-	cout << vacios.size() << endl;
-
-	if( vacios.size() == 0 )
+	if( vacios[ 0 ].size() + vacios[ 1 ].size() == 0 )
 		return "-1";
 
-	punto = vacios[ rand()%(vacios.size()) ];
+	if( vacios[ 0 ].size() )
+		punto = vacios[ 0 ][ rand()%(vacios[ 0 ].size()) ];
+	else
+		punto = vacios[ 1 ][ rand()%(vacios[ 1 ].size()) ];
 
 	return parse(punto);
 }
