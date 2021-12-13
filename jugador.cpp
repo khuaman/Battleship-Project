@@ -2,6 +2,9 @@
 #include <cstdlib>
 #include <ctime>
 #include <tuple>
+#include <unistd.h>
+#include <fstream>
+#include <string>
 
 #define rep(i, n) for(int i=0;i<n;i++)
 
@@ -84,4 +87,41 @@ string Jugador::jugada(){
 		punto = vacios[ 1 ][ rand()%(vacios[ 1 ].size()) ];
 
 	return parse(punto);
+}
+
+void Jugador::empezar(){
+	ofstream fileW(filename + ".in");
+	if (fileW.is_open())
+		fileW << "Handshake=" + teamname << endl;
+	fileW.close();
+	sleep(1);
+	ifstream fileR(filename + ".out");
+	string line;
+	getline(fileR, line);
+	if( line != "ACCEPTED" ){
+		cout << "El programa no otorgó el Token" << endl;
+		return;
+	}
+	getline(fileR, line);
+	token = line.substr(6);
+	cout << token << endl;
+}
+
+bool Jugador::jugar(){
+	ifstream fileR;
+	string line;
+	while(true){
+		sleep(1);
+		fileR.open(filename + ".not");
+		getline(fileR, line);
+		getline(fileR, line);
+		if( line != "NOT YOUR TURN" )
+			break;
+		fileR.close();
+	}
+	fileR.close();
+	if( line == "END" )
+		return false;
+	cout << "" << endl;
+	return true;
 }

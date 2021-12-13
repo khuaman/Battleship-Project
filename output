@@ -1,8 +1,11 @@
-Turno: 1
+
+Turno: 1 de Team Angel
+Team Angel ataca a Team Kevin con C3
+Respuesta: .
     A  B  C  D  E  F  G  H  I  J  
 1                                 
 2                                 
-3                                 
+3         .                       
 4                                 
 5                                 
 6                                 
@@ -10,23 +13,40 @@ Turno: 1
 8                                 
 9                                 
 10                                
-G7
+
+Turno: 1 de Team Kevin
+Team Kevin ataca a Team Angel con D4
 Respuesta: .
-Turno: 2
     A  B  C  D  E  F  G  H  I  J  
 1                                 
 2                                 
 3                                 
+4            .                    
+5                                 
+6                                 
+7                                 
+8                                 
+9                                 
+10                                
+
+Turno: 2 de Team Angel
+Team Angel ataca a Team Kevin con A3
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3   .     .                       
 4                                 
 5                                 
 6                                 
-7                     .           
+7                                 
 8                                 
 9                                 
 10                                
-D4
+
+Turno: 2 de Team Kevin
+Team Kevin ataca a Team Angel con A7
 Respuesta: .
-Turno: 3
     A  B  C  D  E  F  G  H  I  J  
 1                                 
 2                                 
@@ -34,1028 +54,2167 @@ Turno: 3
 4            .                    
 5                                 
 6                                 
-7                     .           
+7   .                             
 8                                 
 9                                 
 10                                
-D10
+
+Turno: 3 de Team Angel
+Team Angel ataca a Team Kevin con I9
 Respuesta: .
-Turno: 4
     A  B  C  D  E  F  G  H  I  J  
 1                                 
 2                                 
-3                                 
+3   .     .                       
+4                                 
+5                                 
+6                                 
+7                                 
+8                                 
+9                           .     
+10                                
+
+Turno: 3 de Team Kevin
+Team Kevin ataca a Team Angel con C3
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3         .                       
 4            .                    
 5                                 
 6                                 
-7                     .           
+7   .                             
 8                                 
 9                                 
-10           .                    
-F6
-Respuesta: Y
-Turno: 5
+10                                
+
+Turno: 4 de Team Angel
+Team Angel ataca a Team Kevin con B6
+Respuesta: .
     A  B  C  D  E  F  G  H  I  J  
 1                                 
 2                                 
-3                                 
+3   .     .                       
+4                                 
+5                                 
+6      .                          
+7                                 
+8                                 
+9                           .     
+10                                
+
+Turno: 4 de Team Kevin
+Team Kevin ataca a Team Angel con E9
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3         .                       
 4            .                    
 5                                 
-6                  Y              
-7                     .           
+6                                 
+7   .                             
 8                                 
-9                                 
-10           .                    
-F5
-Respuesta: X
-Turno: 6
+9               .                 
+10                                
+
+Turno: 5 de Team Angel
+Team Angel ataca a Team Kevin con J10
+Respuesta: Y
     A  B  C  D  E  F  G  H  I  J  
 1                                 
 2                                 
-3                                 
-4            .                    
-5                  X              
-6                  Y              
-7                     .           
+3   .     .                       
+4                                 
+5                                 
+6      .                          
+7                                 
 8                                 
-9                                 
-10           .                    
-F7
+9                           .     
+10                             Y  
+
+Turno: 5 de Team Kevin
+Team Kevin ataca a Team Angel con D6
 Respuesta: Y
-Turno: 7
     A  B  C  D  E  F  G  H  I  J  
 1                                 
 2                                 
-3                                 
+3         .                       
 4            .                    
-5                  X              
-6                  Y              
-7                  Y  .           
+5                                 
+6            Y                    
+7   .                             
 8                                 
-9                                 
-10           .                    
-E6
-Respuesta: .
-Turno: 8
+9               .                 
+10                                
+
+Turno: 6 de Team Angel
+Team Angel ataca a Team Kevin con J9
+Respuesta: X
     A  B  C  D  E  F  G  H  I  J  
 1                                 
 2                                 
-3                                 
-4            .                    
-5                  X              
-6               .  Y              
-7                  Y  .           
+3   .     .                       
+4                                 
+5                                 
+6      .                          
+7                                 
 8                                 
-9                                 
-10           .                    
-G6
+9                           .  X  
+10                             Y  
+
+Turno: 6 de Team Kevin
+Team Kevin ataca a Team Angel con D5
 Respuesta: .
-Turno: 9
     A  B  C  D  E  F  G  H  I  J  
 1                                 
 2                                 
-3                                 
+3         .                       
 4            .                    
-5                  X              
-6               .  Y  .           
-7                  Y  .           
+5            .                    
+6            Y                    
+7   .                             
 8                                 
-9                                 
-10           .                    
-F8
+9               .                 
+10                                
+
+Turno: 7 de Team Angel
+Team Angel ataca a Team Kevin con I10
 Respuesta: .
-Turno: 10
     A  B  C  D  E  F  G  H  I  J  
 1                                 
 2                                 
-3                                 
-4            .                    
-5                  X              
-6               .  Y  .           
-7                  Y  .           
-8                  .              
-9                                 
-10           .                    
-E7
-Respuesta: Y
-Turno: 11
+3   .     .                       
+4                                 
+5                                 
+6      .                          
+7                                 
+8                                 
+9                           .  X  
+10                          .  Y  
+
+Turno: 7 de Team Kevin
+Team Kevin ataca a Team Angel con D7
+Respuesta: .
     A  B  C  D  E  F  G  H  I  J  
 1                                 
 2                                 
-3                                 
+3         .                       
 4            .                    
-5                  X              
-6               .  Y  .           
-7               Y  Y  .           
-8                  .              
-9                                 
-10           .                    
-D7
-Respuesta: X
-Turno: 12
+5            .                    
+6            Y                    
+7   .        .                    
+8                                 
+9               .                 
+10                                
+
+Turno: 8 de Team Angel
+Team Angel ataca a Team Kevin con G3
+Respuesta: .
     A  B  C  D  E  F  G  H  I  J  
 1                                 
 2                                 
-3                                 
-4            .                    
-5                  X              
-6               .  Y  .           
-7            X  Y  Y  .           
-8                  .              
-9                                 
-10           .                    
-E8
-Respuesta: .
-Turno: 13
+3   .     .           .           
+4                                 
+5                                 
+6      .                          
+7                                 
+8                                 
+9                           .  X  
+10                          .  Y  
+
+Turno: 8 de Team Kevin
+Team Kevin ataca a Team Angel con C6
+Respuesta: Y
     A  B  C  D  E  F  G  H  I  J  
 1                                 
 2                                 
-3                                 
+3         .                       
 4            .                    
-5                  X              
-6               .  Y  .           
-7            X  Y  Y  .           
-8               .  .              
-9                                 
-10           .                    
-B2
-Respuesta: .
-Turno: 14
+5            .                    
+6         Y  Y                    
+7   .        .                    
+8                                 
+9               .                 
+10                                
+
+Turno: 9 de Team Angel
+Team Angel ataca a Team Kevin con A7
+Respuesta: Y
     A  B  C  D  E  F  G  H  I  J  
 1                                 
-2      .                          
-3                                 
+2                                 
+3   .     .           .           
+4                                 
+5                                 
+6      .                          
+7   Y                             
+8                                 
+9                           .  X  
+10                          .  Y  
+
+Turno: 9 de Team Kevin
+Team Kevin ataca a Team Angel con B6
+Respuesta: X
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3         .                       
 4            .                    
-5                  X              
-6               .  Y  .           
-7            X  Y  Y  .           
-8               .  .              
-9                                 
-10           .                    
-C5
-Respuesta: .
-Turno: 15
+5            .                    
+6      X  Y  Y                    
+7   .        .                    
+8                                 
+9               .                 
+10                                
+
+Turno: 10 de Team Angel
+Team Angel ataca a Team Kevin con A6
+Respuesta: Y
     A  B  C  D  E  F  G  H  I  J  
 1                                 
-2      .                          
-3                                 
+2                                 
+3   .     .           .           
+4                                 
+5                                 
+6   Y  .                          
+7   Y                             
+8                                 
+9                           .  X  
+10                          .  Y  
+
+Turno: 10 de Team Kevin
+Team Kevin ataca a Team Angel con C5
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3         .                       
 4            .                    
-5         .        X              
-6               .  Y  .           
-7            X  Y  Y  .           
-8               .  .              
-9                                 
-10           .                    
-J4
+5         .  .                    
+6      X  Y  Y                    
+7   .        .                    
+8                                 
+9               .                 
+10                                
+
+Turno: 11 de Team Angel
+Team Angel ataca a Team Kevin con A5
 Respuesta: Y
-Turno: 16
     A  B  C  D  E  F  G  H  I  J  
 1                                 
-2      .                          
-3                                 
-4            .                 Y  
-5         .        X              
-6               .  Y  .           
-7            X  Y  Y  .           
-8               .  .              
-9                                 
-10           .                    
-J3
+2                                 
+3   .     .           .           
+4                                 
+5   Y                             
+6   Y  .                          
+7   Y                             
+8                                 
+9                           .  X  
+10                          .  Y  
+
+Turno: 11 de Team Kevin
+Team Kevin ataca a Team Angel con C7
 Respuesta: .
-Turno: 17
     A  B  C  D  E  F  G  H  I  J  
 1                                 
-2      .                          
-3                              .  
-4            .                 Y  
-5         .        X              
-6               .  Y  .           
-7            X  Y  Y  .           
-8               .  .              
-9                                 
-10           .                    
-J5
-Respuesta: X
-Turno: 18
+2                                 
+3         .                       
+4            .                    
+5         .  .                    
+6      X  Y  Y                    
+7   .     .  .                    
+8                                 
+9               .                 
+10                                
+
+Turno: 12 de Team Angel
+Team Angel ataca a Team Kevin con A4
+Respuesta: .
     A  B  C  D  E  F  G  H  I  J  
 1                                 
-2      .                          
-3                              .  
-4            .                 Y  
-5         .        X           X  
-6               .  Y  .           
-7            X  Y  Y  .           
-8               .  .              
-9                                 
-10           .                    
-I4
+2                                 
+3   .     .           .           
+4   .                             
+5   Y                             
+6   Y  .                          
+7   Y                             
+8                                 
+9                           .  X  
+10                          .  Y  
+
+Turno: 12 de Team Kevin
+Team Kevin ataca a Team Angel con E6
 Respuesta: .
-Turno: 19
     A  B  C  D  E  F  G  H  I  J  
 1                                 
-2      .                          
-3                              .  
-4            .              .  Y  
-5         .        X           X  
-6               .  Y  .           
-7            X  Y  Y  .           
-8               .  .              
-9                                 
-10           .                    
-A9
-Respuesta: X
-Turno: 20
-    A  B  C  D  E  F  G  H  I  J  
-1                                 
-2      .                          
-3                              .  
-4            .              .  Y  
-5         .        X           X  
-6               .  Y  .           
-7            X  Y  Y  .           
-8               .  .              
-9   X                             
-10           .                    
-C3
-Respuesta: .
-Turno: 21
-    A  B  C  D  E  F  G  H  I  J  
-1                                 
-2      .                          
-3         .                    .  
-4            .              .  Y  
-5         .        X           X  
-6               .  Y  .           
-7            X  Y  Y  .           
-8               .  .              
-9   X                             
-10           .                    
-D6
-Respuesta: .
-Turno: 22
-    A  B  C  D  E  F  G  H  I  J  
-1                                 
-2      .                          
-3         .                    .  
-4            .              .  Y  
-5         .        X           X  
-6            .  .  Y  .           
-7            X  Y  Y  .           
-8               .  .              
-9   X                             
-10           .                    
-F2
-Respuesta: .
-Turno: 23
-    A  B  C  D  E  F  G  H  I  J  
-1                                 
-2      .           .              
-3         .                    .  
-4            .              .  Y  
-5         .        X           X  
-6            .  .  Y  .           
-7            X  Y  Y  .           
-8               .  .              
-9   X                             
-10           .                    
-H10
-Respuesta: .
-Turno: 24
-    A  B  C  D  E  F  G  H  I  J  
-1                                 
-2      .           .              
-3         .                    .  
-4            .              .  Y  
-5         .        X           X  
-6            .  .  Y  .           
-7            X  Y  Y  .           
-8               .  .              
-9   X                             
-10           .           .        
-B6
-Respuesta: .
-Turno: 25
-    A  B  C  D  E  F  G  H  I  J  
-1                                 
-2      .           .              
-3         .                    .  
-4            .              .  Y  
-5         .        X           X  
-6      .     .  .  Y  .           
-7            X  Y  Y  .           
-8               .  .              
-9   X                             
-10           .           .        
-G5
-Respuesta: .
-Turno: 26
-    A  B  C  D  E  F  G  H  I  J  
-1                                 
-2      .           .              
-3         .                    .  
-4            .              .  Y  
-5         .        X  .        X  
-6      .     .  .  Y  .           
-7            X  Y  Y  .           
-8               .  .              
-9   X                             
-10           .           .        
-J6
-Respuesta: .
-Turno: 27
-    A  B  C  D  E  F  G  H  I  J  
-1                                 
-2      .           .              
-3         .                    .  
-4            .              .  Y  
-5         .        X  .        X  
-6      .     .  .  Y  .        .  
-7            X  Y  Y  .           
-8               .  .              
-9   X                             
-10           .           .        
-I1
-Respuesta: .
-Turno: 28
-    A  B  C  D  E  F  G  H  I  J  
-1                           .     
-2      .           .              
-3         .                    .  
-4            .              .  Y  
-5         .        X  .        X  
-6      .     .  .  Y  .        .  
-7            X  Y  Y  .           
-8               .  .              
-9   X                             
-10           .           .        
-H4
-Respuesta: .
-Turno: 29
-    A  B  C  D  E  F  G  H  I  J  
-1                           .     
-2      .           .              
-3         .                    .  
-4            .           .  .  Y  
-5         .        X  .        X  
-6      .     .  .  Y  .        .  
-7            X  Y  Y  .           
-8               .  .              
-9   X                             
-10           .           .        
-F10
-Respuesta: .
-Turno: 30
-    A  B  C  D  E  F  G  H  I  J  
-1                           .     
-2      .           .              
-3         .                    .  
-4            .           .  .  Y  
-5         .        X  .        X  
-6      .     .  .  Y  .        .  
-7            X  Y  Y  .           
-8               .  .              
-9   X                             
-10           .     .     .        
-I5
-Respuesta: .
-Turno: 31
-    A  B  C  D  E  F  G  H  I  J  
-1                           .     
-2      .           .              
-3         .                    .  
-4            .           .  .  Y  
-5         .        X  .     .  X  
-6      .     .  .  Y  .        .  
-7            X  Y  Y  .           
-8               .  .              
-9   X                             
-10           .     .     .        
-G3
-Respuesta: .
-Turno: 32
-    A  B  C  D  E  F  G  H  I  J  
-1                           .     
-2      .           .              
-3         .           .        .  
-4            .           .  .  Y  
-5         .        X  .     .  X  
-6      .     .  .  Y  .        .  
-7            X  Y  Y  .           
-8               .  .              
-9   X                             
-10           .     .     .        
-J2
-Respuesta: .
-Turno: 33
-    A  B  C  D  E  F  G  H  I  J  
-1                           .     
-2      .           .           .  
-3         .           .        .  
-4            .           .  .  Y  
-5         .        X  .     .  X  
-6      .     .  .  Y  .        .  
-7            X  Y  Y  .           
-8               .  .              
-9   X                             
-10           .     .     .        
-B8
-Respuesta: .
-Turno: 34
-    A  B  C  D  E  F  G  H  I  J  
-1                           .     
-2      .           .           .  
-3         .           .        .  
-4            .           .  .  Y  
-5         .        X  .     .  X  
-6      .     .  .  Y  .        .  
-7            X  Y  Y  .           
-8      .        .  .              
-9   X                             
-10           .     .     .        
-G9
+2                                 
+3         .                       
+4            .                    
+5         .  .                    
+6      X  Y  Y  .                 
+7   .     .  .                    
+8                                 
+9               .                 
+10                                
+
+Turno: 13 de Team Angel
+Team Angel ataca a Team Kevin con B5
 Respuesta: Y
-Turno: 35
     A  B  C  D  E  F  G  H  I  J  
-1                           .     
-2      .           .           .  
-3         .           .        .  
-4            .           .  .  Y  
-5         .        X  .     .  X  
-6      .     .  .  Y  .        .  
-7            X  Y  Y  .           
-8      .        .  .              
-9   X                 Y           
-10           .     .     .        
-G8
+1                                 
+2                                 
+3   .     .           .           
+4   .                             
+5   Y  Y                          
+6   Y  .                          
+7   Y                             
+8                                 
+9                           .  X  
+10                          .  Y  
+
+Turno: 13 de Team Kevin
+Team Kevin ataca a Team Angel con G1
 Respuesta: .
-Turno: 36
     A  B  C  D  E  F  G  H  I  J  
-1                           .     
-2      .           .           .  
-3         .           .        .  
-4            .           .  .  Y  
-5         .        X  .     .  X  
-6      .     .  .  Y  .        .  
-7            X  Y  Y  .           
-8      .        .  .  .           
-9   X                 Y           
-10           .     .     .        
-G10
-Respuesta: .
-Turno: 37
-    A  B  C  D  E  F  G  H  I  J  
-1                           .     
-2      .           .           .  
-3         .           .        .  
-4            .           .  .  Y  
-5         .        X  .     .  X  
-6      .     .  .  Y  .        .  
-7            X  Y  Y  .           
-8      .        .  .  .           
-9   X                 Y           
-10           .     .  .  .        
-F9
-Respuesta: .
-Turno: 38
-    A  B  C  D  E  F  G  H  I  J  
-1                           .     
-2      .           .           .  
-3         .           .        .  
-4            .           .  .  Y  
-5         .        X  .     .  X  
-6      .     .  .  Y  .        .  
-7            X  Y  Y  .           
-8      .        .  .  .           
-9   X              .  Y           
-10           .     .  .  .        
-H9
+1                     .           
+2                                 
+3         .                       
+4            .                    
+5         .  .                    
+6      X  Y  Y  .                 
+7   .     .  .                    
+8                                 
+9               .                 
+10                                
+
+Turno: 14 de Team Angel
+Team Angel ataca a Team Kevin con C5
 Respuesta: X
-Turno: 39
     A  B  C  D  E  F  G  H  I  J  
-1                           .     
-2      .           .           .  
-3         .           .        .  
-4            .           .  .  Y  
-5         .        X  .     .  X  
-6      .     .  .  Y  .        .  
-7            X  Y  Y  .           
-8      .        .  .  .           
-9   X              .  Y  X        
-10           .     .  .  .        
-A5
+1                                 
+2                                 
+3   .     .           .           
+4   .                             
+5   Y  Y  X                       
+6   Y  .                          
+7   Y                             
+8                                 
+9                           .  X  
+10                          .  Y  
+
+Turno: 14 de Team Kevin
+Team Kevin ataca a Team Angel con D10
 Respuesta: .
-Turno: 40
     A  B  C  D  E  F  G  H  I  J  
-1                           .     
-2      .           .           .  
-3         .           .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .     .  .  Y  .        .  
-7            X  Y  Y  .           
-8      .        .  .  .           
-9   X              .  Y  X        
-10           .     .  .  .        
-A7
+1                     .           
+2                                 
+3         .                       
+4            .                    
+5         .  .                    
+6      X  Y  Y  .                 
+7   .     .  .                    
+8                                 
+9               .                 
+10           .                    
+
+Turno: 15 de Team Angel
+Team Angel ataca a Team Kevin con B4
 Respuesta: .
-Turno: 41
     A  B  C  D  E  F  G  H  I  J  
-1                           .     
-2      .           .           .  
-3         .           .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .     .  .  Y  .        .  
-7   .        X  Y  Y  .           
-8      .        .  .  .           
-9   X              .  Y  X        
-10           .     .  .  .        
-B10
+1                                 
+2                                 
+3   .     .           .           
+4   .  .                          
+5   Y  Y  X                       
+6   Y  .                          
+7   Y                             
+8                                 
+9                           .  X  
+10                          .  Y  
+
+Turno: 15 de Team Kevin
+Team Kevin ataca a Team Angel con I5
 Respuesta: .
-Turno: 42
     A  B  C  D  E  F  G  H  I  J  
-1                           .     
-2      .           .           .  
-3         .           .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .     .  .  Y  .        .  
-7   .        X  Y  Y  .           
-8      .        .  .  .           
-9   X              .  Y  X        
-10     .     .     .  .  .        
-I7
-Respuesta: .
-Turno: 43
-    A  B  C  D  E  F  G  H  I  J  
-1                           .     
-2      .           .           .  
-3         .           .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .     .  .  Y  .        .  
-7   .        X  Y  Y  .     .     
-8      .        .  .  .           
-9   X              .  Y  X        
-10     .     .     .  .  .        
-E3
-Respuesta: X
-Turno: 44
-    A  B  C  D  E  F  G  H  I  J  
-1                           .     
-2      .           .           .  
-3         .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .     .  .  Y  .        .  
-7   .        X  Y  Y  .     .     
-8      .        .  .  .           
-9   X              .  Y  X        
-10     .     .     .  .  .        
-G1
-Respuesta: .
-Turno: 45
-    A  B  C  D  E  F  G  H  I  J  
-1                     .     .     
-2      .           .           .  
-3         .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .     .  .  Y  .        .  
-7   .        X  Y  Y  .     .     
-8      .        .  .  .           
-9   X              .  Y  X        
-10     .     .     .  .  .        
-H6
-Respuesta: .
-Turno: 46
-    A  B  C  D  E  F  G  H  I  J  
-1                     .     .     
-2      .           .           .  
-3         .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .     .  .  Y  .  .     .  
-7   .        X  Y  Y  .     .     
-8      .        .  .  .           
-9   X              .  Y  X        
-10     .     .     .  .  .        
-A3
-Respuesta: .
-Turno: 47
-    A  B  C  D  E  F  G  H  I  J  
-1                     .     .     
-2      .           .           .  
-3   .     .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .     .  .  Y  .  .     .  
-7   .        X  Y  Y  .     .     
-8      .        .  .  .           
-9   X              .  Y  X        
-10     .     .     .  .  .        
-C1
+1                     .           
+2                                 
+3         .                       
+4            .                    
+5         .  .              .     
+6      X  Y  Y  .                 
+7   .     .  .                    
+8                                 
+9               .                 
+10           .                    
+
+Turno: 16 de Team Angel
+Team Angel ataca a Team Kevin con A8
 Respuesta: Y
-Turno: 48
     A  B  C  D  E  F  G  H  I  J  
-1         Y           .     .     
-2      .           .           .  
-3   .     .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .     .  .  Y  .  .     .  
-7   .        X  Y  Y  .     .     
-8      .        .  .  .           
-9   X              .  Y  X        
-10     .     .     .  .  .        
-C2
+1                                 
+2                                 
+3   .     .           .           
+4   .  .                          
+5   Y  Y  X                       
+6   Y  .                          
+7   Y                             
+8   Y                             
+9                           .  X  
+10                          .  Y  
+
+Turno: 16 de Team Kevin
+Team Kevin ataca a Team Angel con G5
 Respuesta: .
-Turno: 49
     A  B  C  D  E  F  G  H  I  J  
-1         Y           .     .     
-2      .  .        .           .  
-3   .     .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .     .  .  Y  .  .     .  
-7   .        X  Y  Y  .     .     
-8      .        .  .  .           
-9   X              .  Y  X        
-10     .     .     .  .  .        
-B1
-Respuesta: Y
-Turno: 50
-    A  B  C  D  E  F  G  H  I  J  
-1      Y  Y           .     .     
-2      .  .        .           .  
-3   .     .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .     .  .  Y  .  .     .  
-7   .        X  Y  Y  .     .     
-8      .        .  .  .           
-9   X              .  Y  X        
-10     .     .     .  .  .        
-A1
-Respuesta: X
-Turno: 51
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y           .     .     
-2      .  .        .           .  
-3   .     .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .     .  .  Y  .  .     .  
-7   .        X  Y  Y  .     .     
-8      .        .  .  .           
-9   X              .  Y  X        
-10     .     .     .  .  .        
-D1
-Respuesta: .
-Turno: 52
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .        .           .  
-3   .     .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .     .  .  Y  .  .     .  
-7   .        X  Y  Y  .     .     
-8      .        .  .  .           
-9   X              .  Y  X        
-10     .     .     .  .  .        
-C9
-Respuesta: Y
-Turno: 53
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .        .           .  
-3   .     .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .     .  .  Y  .  .     .  
-7   .        X  Y  Y  .     .     
-8      .        .  .  .           
-9   X     Y        .  Y  X        
-10     .     .     .  .  .        
-C8
-Respuesta: Y
-Turno: 54
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .        .           .  
-3   .     .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .     .  .  Y  .  .     .  
-7   .        X  Y  Y  .     .     
-8      .  Y     .  .  .           
-9   X     Y        .  Y  X        
-10     .     .     .  .  .        
-C7
-Respuesta: Y
-Turno: 55
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .        .           .  
-3   .     .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .     .  .  Y  .  .     .  
-7   .     Y  X  Y  Y  .     .     
-8      .  Y     .  .  .           
-9   X     Y        .  Y  X        
-10     .     .     .  .  .        
-C6
-Respuesta: X
-Turno: 56
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .        .           .  
-3   .     .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .     Y  X  Y  Y  .     .     
-8      .  Y     .  .  .           
-9   X     Y        .  Y  X        
-10     .     .     .  .  .        
-B7
-Respuesta: .
-Turno: 57
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .        .           .  
-3   .     .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y     .  .  .           
-9   X     Y        .  Y  X        
-10     .     .     .  .  .        
-D8
-Respuesta: .
-Turno: 58
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .        .           .  
-3   .     .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .           
-9   X     Y        .  Y  X        
-10     .     .     .  .  .        
-C10
-Respuesta: .
-Turno: 59
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .        .           .  
-3   .     .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .           
-9   X     Y        .  Y  X        
-10     .  .  .     .  .  .        
-B9
-Respuesta: .
-Turno: 60
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .        .           .  
-3   .     .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .           
-9   X  .  Y        .  Y  X        
-10     .  .  .     .  .  .        
-D9
-Respuesta: .
-Turno: 61
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .        .           .  
-3   .     .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .           
-9   X  .  Y  .     .  Y  X        
-10     .  .  .     .  .  .        
-J10
-Respuesta: .
-Turno: 62
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .        .           .  
-3   .     .     X     .        .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .           
-9   X  .  Y  .     .  Y  X        
-10     .  .  .     .  .  .     .  
-I3
-Respuesta: .
-Turno: 63
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .        .           .  
-3   .     .     X     .     .  .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .           
-9   X  .  Y  .     .  Y  X        
-10     .  .  .     .  .  .     .  
-D2
-Respuesta: .
-Turno: 64
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .  .     .           .  
-3   .     .     X     .     .  .  
-4            .           .  .  Y  
-5   .     .        X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .           
-9   X  .  Y  .     .  Y  X        
-10     .  .  .     .  .  .     .  
-F4
-Respuesta: .
-Turno: 65
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .  .     .           .  
-3   .     .     X     .     .  .  
-4            .     .     .  .  Y  
-5   .     .        X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .           
-9   X  .  Y  .     .  Y  X        
-10     .  .  .     .  .  .     .  
-I9
-Respuesta: .
-Turno: 66
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .  .     .           .  
-3   .     .     X     .     .  .  
-4            .     .     .  .  Y  
-5   .     .        X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .           
-9   X  .  Y  .     .  Y  X  .     
-10     .  .  .     .  .  .     .  
-J8
-Respuesta: .
-Turno: 67
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .  .     .           .  
-3   .     .     X     .     .  .  
-4            .     .     .  .  Y  
-5   .     .        X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .        .  
-9   X  .  Y  .     .  Y  X  .     
-10     .  .  .     .  .  .     .  
-H2
-Respuesta: .
-Turno: 68
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .  .     .     .     .  
-3   .     .     X     .     .  .  
-4            .     .     .  .  Y  
-5   .     .        X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .        .  
-9   X  .  Y  .     .  Y  X  .     
-10     .  .  .     .  .  .     .  
-E5
-Respuesta: .
-Turno: 69
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .  .     .     .     .  
-3   .     .     X     .     .  .  
-4            .     .     .  .  Y  
-5   .     .     .  X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .        .  
-9   X  .  Y  .     .  Y  X  .     
-10     .  .  .     .  .  .     .  
-H8
-Respuesta: .
-Turno: 70
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .  .     .     .     .  
-3   .     .     X     .     .  .  
-4            .     .     .  .  Y  
-5   .     .     .  X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .  .     .  
-9   X  .  Y  .     .  Y  X  .     
-10     .  .  .     .  .  .     .  
-E9
-Respuesta: .
-Turno: 71
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .  .     .     .     .  
-3   .     .     X     .     .  .  
-4            .     .     .  .  Y  
-5   .     .     .  X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .  .     .  
-9   X  .  Y  .  .  .  Y  X  .     
-10     .  .  .     .  .  .     .  
-B4
-Respuesta: .
-Turno: 72
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .        .     .     
-2      .  .  .     .     .     .  
-3   .     .     X     .     .  .  
-4      .     .     .     .  .  Y  
-5   .     .     .  X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .  .     .  
-9   X  .  Y  .  .  .  Y  X  .     
-10     .  .  .     .  .  .     .  
-E1
-Respuesta: .
-Turno: 73
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .  .     .     .     
-2      .  .  .     .     .     .  
-3   .     .     X     .     .  .  
-4      .     .     .     .  .  Y  
-5   .     .     .  X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .  .     .  
-9   X  .  Y  .  .  .  Y  X  .     
-10     .  .  .     .  .  .     .  
-B3
-Respuesta: .
-Turno: 74
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .  .     .     .     
-2      .  .  .     .     .     .  
-3   .  .  .     X     .     .  .  
-4      .     .     .     .  .  Y  
-5   .     .     .  X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .  .     .  
-9   X  .  Y  .  .  .  Y  X  .     
-10     .  .  .     .  .  .     .  
-J9
-Respuesta: X
-Turno: 75
-    A  B  C  D  E  F  G  H  I  J  
-1   X  Y  Y  .  .     .     .     
-2      .  .  .     .     .     .  
-3   .  .  .     X     .     .  .  
-4      .     .     .     .  .  Y  
-5   .     .     .  X  .     .  X  
-6      .  X  .  .  Y  .  .     .  
-7   .  .  Y  X  Y  Y  .     .     
-8      .  Y  .  .  .  .  .     .  
-9   X  .  Y  .  .  .  Y  X  .  X  
-10     .  .  .     .  .  .     .  
-G2
+1                     .           
+2                                 
+3         .                       
+4            .                    
+5         .  .        .     .     
+6      X  Y  Y  .                 
+7   .     .  .                    
+8                                 
+9               .                 
+10           .                    
+
+Turno: 17 de Team Angel
+Team Angel ataca a Team Kevin con B7
 Respuesta: X
     A  B  C  D  E  F  G  H  I  J  
-1   X  X  X  .  .     .     .     
-2      .  .  .     .  X  .     .  
-3   .  .  .     X     .     .  .  
-4      .     .     .     .  .  X  
-5   .     .     .  X  .     .  X  
-6      .  X  .  .  X  .  .     .  
-7   .  .  X  X  X  X  .     .     
-8      .  X  .  .  .  .  .     .  
-9   X  .  X  .  .  .  X  X  .  X  
-10     .  .  .     .  .  .     .  
+1                                 
+2                                 
+3   .     .           .           
+4   .  .                          
+5   Y  Y  X                       
+6   Y  .                          
+7   Y  X                          
+8   Y                             
+9                           .  X  
+10                          .  Y  
+
+Turno: 17 de Team Kevin
+Team Kevin ataca a Team Angel con F4
+Respuesta: X
+    A  B  C  D  E  F  G  H  I  J  
+1                     .           
+2                                 
+3         .                       
+4            .     X              
+5         .  .        .     .     
+6      X  Y  Y  .                 
+7   .     .  .                    
+8                                 
+9               .                 
+10           .                    
+
+Turno: 18 de Team Angel
+Team Angel ataca a Team Kevin con A9
+Respuesta: X
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3   .     .           .           
+4   .  .                          
+5   Y  Y  X                       
+6   Y  .                          
+7   Y  X                          
+8   Y                             
+9   X                       .  X  
+10                          .  Y  
+
+Turno: 18 de Team Kevin
+Team Kevin ataca a Team Angel con H6
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                     .           
+2                                 
+3         .                       
+4            .     X              
+5         .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .                    
+8                                 
+9               .                 
+10           .                    
+
+Turno: 19 de Team Angel
+Team Angel ataca a Team Kevin con B8
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3   .     .           .           
+4   .  .                          
+5   Y  Y  X                       
+6   Y  .                          
+7   Y  X                          
+8   Y  .                          
+9   X                       .  X  
+10                          .  Y  
+
+Turno: 19 de Team Kevin
+Team Kevin ataca a Team Angel con I7
+Respuesta: X
+    A  B  C  D  E  F  G  H  I  J  
+1                     .           
+2                                 
+3         .                       
+4            .     X              
+5         .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .              X     
+8                                 
+9               .                 
+10           .                    
+
+Turno: 20 de Team Angel
+Team Angel ataca a Team Kevin con J4
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3   .     .           .           
+4   .  .                       .  
+5   Y  Y  X                       
+6   Y  .                          
+7   Y  X                          
+8   Y  .                          
+9   X                       .  X  
+10                          .  Y  
+
+Turno: 20 de Team Kevin
+Team Kevin ataca a Team Angel con H4
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                     .           
+2                                 
+3         .                       
+4            .     X     .        
+5         .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .              X     
+8                                 
+9               .                 
+10           .                    
+
+Turno: 21 de Team Angel
+Team Angel ataca a Team Kevin con J8
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3   .     .           .           
+4   .  .                       .  
+5   Y  Y  X                       
+6   Y  .                          
+7   Y  X                          
+8   Y  .                       .  
+9   X                       .  X  
+10                          .  Y  
+
+Turno: 21 de Team Kevin
+Team Kevin ataca a Team Angel con J4
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                     .           
+2                                 
+3         .                       
+4            .     X     .     .  
+5         .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .              X     
+8                                 
+9               .                 
+10           .                    
+
+Turno: 22 de Team Angel
+Team Angel ataca a Team Kevin con D8
+Respuesta: X
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3   .     .           .           
+4   .  .                       .  
+5   Y  Y  X                       
+6   Y  .                          
+7   Y  X                          
+8   Y  .     X                 .  
+9   X                       .  X  
+10                          .  Y  
+
+Turno: 22 de Team Kevin
+Team Kevin ataca a Team Angel con C9
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                     .           
+2                                 
+3         .                       
+4            .     X     .     .  
+5         .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .              X     
+8                                 
+9         .     .                 
+10           .                    
+
+Turno: 23 de Team Angel
+Team Angel ataca a Team Kevin con H8
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3   .     .           .           
+4   .  .                       .  
+5   Y  Y  X                       
+6   Y  .                          
+7   Y  X                          
+8   Y  .     X           .     .  
+9   X                       .  X  
+10                          .  Y  
+
+Turno: 23 de Team Kevin
+Team Kevin ataca a Team Angel con E1
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1               .     .           
+2                                 
+3         .                       
+4            .     X     .     .  
+5         .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .              X     
+8                                 
+9         .     .                 
+10           .                    
+
+Turno: 24 de Team Angel
+Team Angel ataca a Team Kevin con G7
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3   .     .           .           
+4   .  .                       .  
+5   Y  Y  X                       
+6   Y  .                          
+7   Y  X              .           
+8   Y  .     X           .     .  
+9   X                       .  X  
+10                          .  Y  
+
+Turno: 24 de Team Kevin
+Team Kevin ataca a Team Angel con A5
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1               .     .           
+2                                 
+3         .                       
+4            .     X     .     .  
+5   .     .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .              X     
+8                                 
+9         .     .                 
+10           .                    
+
+Turno: 25 de Team Angel
+Team Angel ataca a Team Kevin con D4
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3   .     .           .           
+4   .  .     .                 .  
+5   Y  Y  X                       
+6   Y  .                          
+7   Y  X              .           
+8   Y  .     X           .     .  
+9   X                       .  X  
+10                          .  Y  
+
+Turno: 25 de Team Kevin
+Team Kevin ataca a Team Angel con C1
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1         .     .     .           
+2                                 
+3         .                       
+4            .     X     .     .  
+5   .     .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .              X     
+8                                 
+9         .     .                 
+10           .                    
+
+Turno: 26 de Team Angel
+Team Angel ataca a Team Kevin con I5
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3   .     .           .           
+4   .  .     .                 .  
+5   Y  Y  X                 .     
+6   Y  .                          
+7   Y  X              .           
+8   Y  .     X           .     .  
+9   X                       .  X  
+10                          .  Y  
+
+Turno: 26 de Team Kevin
+Team Kevin ataca a Team Angel con E3
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1         .     .     .           
+2                                 
+3         .     .                 
+4            .     X     .     .  
+5   .     .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .              X     
+8                                 
+9         .     .                 
+10           .                    
+
+Turno: 27 de Team Angel
+Team Angel ataca a Team Kevin con D10
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3   .     .           .           
+4   .  .     .                 .  
+5   Y  Y  X                 .     
+6   Y  .                          
+7   Y  X              .           
+8   Y  .     X           .     .  
+9   X                       .  X  
+10           .              .  Y  
+
+Turno: 27 de Team Kevin
+Team Kevin ataca a Team Angel con G9
+Respuesta: Y
+    A  B  C  D  E  F  G  H  I  J  
+1         .     .     .           
+2                                 
+3         .     .                 
+4            .     X     .     .  
+5   .     .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .              X     
+8                                 
+9         .     .     Y           
+10           .                    
+
+Turno: 28 de Team Angel
+Team Angel ataca a Team Kevin con B10
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3   .     .           .           
+4   .  .     .                 .  
+5   Y  Y  X                 .     
+6   Y  .                          
+7   Y  X              .           
+8   Y  .     X           .     .  
+9   X                       .  X  
+10     .     .              .  Y  
+
+Turno: 28 de Team Kevin
+Team Kevin ataca a Team Angel con G8
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1         .     .     .           
+2                                 
+3         .     .                 
+4            .     X     .     .  
+5   .     .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .              X     
+8                     .           
+9         .     .     Y           
+10           .                    
+
+Turno: 29 de Team Angel
+Team Angel ataca a Team Kevin con C7
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3   .     .           .           
+4   .  .     .                 .  
+5   Y  Y  X                 .     
+6   Y  .                          
+7   Y  X  .           .           
+8   Y  .     X           .     .  
+9   X                       .  X  
+10     .     .              .  Y  
+
+Turno: 29 de Team Kevin
+Team Kevin ataca a Team Angel con G10
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1         .     .     .           
+2                                 
+3         .     .                 
+4            .     X     .     .  
+5   .     .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .              X     
+8                     .           
+9         .     .     Y           
+10           .        .           
+
+Turno: 30 de Team Angel
+Team Angel ataca a Team Kevin con D6
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                                 
+2                                 
+3   .     .           .           
+4   .  .     .                 .  
+5   Y  Y  X                 .     
+6   Y  .     .                    
+7   Y  X  .           .           
+8   Y  .     X           .     .  
+9   X                       .  X  
+10     .     .              .  Y  
+
+Turno: 30 de Team Kevin
+Team Kevin ataca a Team Angel con F9
+Respuesta: X
+    A  B  C  D  E  F  G  H  I  J  
+1         .     .     .           
+2                                 
+3         .     .                 
+4            .     X     .     .  
+5   .     .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .              X     
+8                     .           
+9         .     .  X  Y           
+10           .        .           
+
+Turno: 31 de Team Angel
+Team Angel ataca a Team Kevin con I1
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2                                 
+3   .     .           .           
+4   .  .     .                 .  
+5   Y  Y  X                 .     
+6   Y  .     .                    
+7   Y  X  .           .           
+8   Y  .     X           .     .  
+9   X                       .  X  
+10     .     .              .  Y  
+
+Turno: 31 de Team Kevin
+Team Kevin ataca a Team Angel con H9
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1         .     .     .           
+2                                 
+3         .     .                 
+4            .     X     .     .  
+5   .     .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .              X     
+8                     .           
+9         .     .  X  Y  .        
+10           .        .           
+
+Turno: 32 de Team Angel
+Team Angel ataca a Team Kevin con E3
+Respuesta: X
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2                                 
+3   .     .     X     .           
+4   .  .     .                 .  
+5   Y  Y  X                 .     
+6   Y  .     .                    
+7   Y  X  .           .           
+8   Y  .     X           .     .  
+9   X                       .  X  
+10     .     .              .  Y  
+
+Turno: 32 de Team Kevin
+Team Kevin ataca a Team Angel con E7
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1         .     .     .           
+2                                 
+3         .     .                 
+4            .     X     .     .  
+5   .     .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .  .           X     
+8                     .           
+9         .     .  X  Y  .        
+10           .        .           
+
+Turno: 33 de Team Angel
+Team Angel ataca a Team Kevin con B2
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2      .                          
+3   .     .     X     .           
+4   .  .     .                 .  
+5   Y  Y  X                 .     
+6   Y  .     .                    
+7   Y  X  .           .           
+8   Y  .     X           .     .  
+9   X                       .  X  
+10     .     .              .  Y  
+
+Turno: 33 de Team Kevin
+Team Kevin ataca a Team Angel con D2
+Respuesta: Y
+    A  B  C  D  E  F  G  H  I  J  
+1         .     .     .           
+2            Y                    
+3         .     .                 
+4            .     X     .     .  
+5   .     .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .  .           X     
+8                     .           
+9         .     .  X  Y  .        
+10           .        .           
+
+Turno: 34 de Team Angel
+Team Angel ataca a Team Kevin con H10
+Respuesta: Y
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2      .                          
+3   .     .     X     .           
+4   .  .     .                 .  
+5   Y  Y  X                 .     
+6   Y  .     .                    
+7   Y  X  .           .           
+8   Y  .     X           .     .  
+9   X                       .  X  
+10     .     .           Y  .  Y  
+
+Turno: 34 de Team Kevin
+Team Kevin ataca a Team Angel con D1
+Respuesta: X
+    A  B  C  D  E  F  G  H  I  J  
+1         .  X  .     .           
+2            Y                    
+3         .     .                 
+4            .     X     .     .  
+5   .     .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .  .           X     
+8                     .           
+9         .     .  X  Y  .        
+10           .        .           
+
+Turno: 35 de Team Angel
+Team Angel ataca a Team Kevin con H9
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2      .                          
+3   .     .     X     .           
+4   .  .     .                 .  
+5   Y  Y  X                 .     
+6   Y  .     .                    
+7   Y  X  .           .           
+8   Y  .     X           .     .  
+9   X                    .  .  X  
+10     .     .           Y  .  Y  
+
+Turno: 35 de Team Kevin
+Team Kevin ataca a Team Angel con D3
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1         .  X  .     .           
+2            Y                    
+3         .  .  .                 
+4            .     X     .     .  
+5   .     .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .  .           X     
+8                     .           
+9         .     .  X  Y  .        
+10           .        .           
+
+Turno: 36 de Team Angel
+Team Angel ataca a Team Kevin con G10
+Respuesta: X
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2      .                          
+3   .     .     X     .           
+4   .  .     .                 .  
+5   Y  Y  X                 .     
+6   Y  .     .                    
+7   Y  X  .           .           
+8   Y  .     X           .     .  
+9   X                    .  .  X  
+10     .     .        X  Y  .  Y  
+
+Turno: 36 de Team Kevin
+Team Kevin ataca a Team Angel con C2
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1         .  X  .     .           
+2         .  Y                    
+3         .  .  .                 
+4            .     X     .     .  
+5   .     .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .  .           X     
+8                     .           
+9         .     .  X  Y  .        
+10           .        .           
+
+Turno: 37 de Team Angel
+Team Angel ataca a Team Kevin con G5
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1                           .     
+2      .                          
+3   .     .     X     .           
+4   .  .     .                 .  
+5   Y  Y  X           .     .     
+6   Y  .     .                    
+7   Y  X  .           .           
+8   Y  .     X           .     .  
+9   X                    .  .  X  
+10     .     .        X  Y  .  Y  
+
+Turno: 37 de Team Kevin
+Team Kevin ataca a Team Angel con E2
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1         .  X  .     .           
+2         .  Y  .                 
+3         .  .  .                 
+4            .     X     .     .  
+5   .     .  .        .     .     
+6      X  Y  Y  .        .        
+7   .     .  .  .           X     
+8                     .           
+9         .     .  X  Y  .        
+10           .        .           
+
+Turno: 38 de Team Angel
+Team Angel ataca a Team Kevin con E1
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1               .           .     
+2      .                          
+3   .     .     X     .           
+4   .  .     .                 .  
+5   Y  Y  X           .     .     
+6   Y  .     .                    
+7   Y  X  .           .           
+8   Y  .     X           .     .  
+9   X                    .  .  X  
+10     .     .        X  Y  .  Y  
+
+Turno: 38 de Team Kevin
+Team Kevin ataca a Team Angel con E5
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1         .  X  .     .           
+2         .  Y  .                 
+3         .  .  .                 
+4            .     X     .     .  
+5   .     .  .  .     .     .     
+6      X  Y  Y  .        .        
+7   .     .  .  .           X     
+8                     .           
+9         .     .  X  Y  .        
+10           .        .           
+
+Turno: 39 de Team Angel
+Team Angel ataca a Team Kevin con I7
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1               .           .     
+2      .                          
+3   .     .     X     .           
+4   .  .     .                 .  
+5   Y  Y  X           .     .     
+6   Y  .     .                    
+7   Y  X  .           .     .     
+8   Y  .     X           .     .  
+9   X                    .  .  X  
+10     .     .        X  Y  .  Y  
+
+Turno: 39 de Team Kevin
+Team Kevin ataca a Team Angel con A1
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .  X  .     .           
+2         .  Y  .                 
+3         .  .  .                 
+4            .     X     .     .  
+5   .     .  .  .     .     .     
+6      X  Y  Y  .        .        
+7   .     .  .  .           X     
+8                     .           
+9         .     .  X  Y  .        
+10           .        .           
+
+Turno: 40 de Team Angel
+Team Angel ataca a Team Kevin con F10
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1               .           .     
+2      .                          
+3   .     .     X     .           
+4   .  .     .                 .  
+5   Y  Y  X           .     .     
+6   Y  .     .                    
+7   Y  X  .           .     .     
+8   Y  .     X           .     .  
+9   X                    .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 40 de Team Kevin
+Team Kevin ataca a Team Angel con F6
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .  X  .     .           
+2         .  Y  .                 
+3         .  .  .                 
+4            .     X     .     .  
+5   .     .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .           X     
+8                     .           
+9         .     .  X  Y  .        
+10           .        .           
+
+Turno: 41 de Team Angel
+Team Angel ataca a Team Kevin con J6
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1               .           .     
+2      .                          
+3   .     .     X     .           
+4   .  .     .                 .  
+5   Y  Y  X           .     .     
+6   Y  .     .                 .  
+7   Y  X  .           .     .     
+8   Y  .     X           .     .  
+9   X                    .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 41 de Team Kevin
+Team Kevin ataca a Team Angel con B10
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .  X  .     .           
+2         .  Y  .                 
+3         .  .  .                 
+4            .     X     .     .  
+5   .     .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .           X     
+8                     .           
+9         .     .  X  Y  .        
+10     .     .        .           
+
+Turno: 42 de Team Angel
+Team Angel ataca a Team Kevin con D2
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1               .           .     
+2      .     .                    
+3   .     .     X     .           
+4   .  .     .                 .  
+5   Y  Y  X           .     .     
+6   Y  .     .                 .  
+7   Y  X  .           .     .     
+8   Y  .     X           .     .  
+9   X                    .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 42 de Team Kevin
+Team Kevin ataca a Team Angel con G7
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .  X  .     .           
+2         .  Y  .                 
+3         .  .  .                 
+4            .     X     .     .  
+5   .     .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                     .           
+9         .     .  X  Y  .        
+10     .     .        .           
+
+Turno: 43 de Team Angel
+Team Angel ataca a Team Kevin con F4
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1               .           .     
+2      .     .                    
+3   .     .     X     .           
+4   .  .     .     .           .  
+5   Y  Y  X           .     .     
+6   Y  .     .                 .  
+7   Y  X  .           .     .     
+8   Y  .     X           .     .  
+9   X                    .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 43 de Team Kevin
+Team Kevin ataca a Team Angel con B4
+Respuesta: Y
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .  X  .     .           
+2         .  Y  .                 
+3         .  .  .                 
+4      Y     .     X     .     .  
+5   .     .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                     .           
+9         .     .  X  Y  .        
+10     .     .        .           
+
+Turno: 44 de Team Angel
+Team Angel ataca a Team Kevin con E5
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1               .           .     
+2      .     .                    
+3   .     .     X     .           
+4   .  .     .     .           .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .                 .  
+7   Y  X  .           .     .     
+8   Y  .     X           .     .  
+9   X                    .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 44 de Team Kevin
+Team Kevin ataca a Team Angel con B3
+Respuesta: Y
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .  X  .     .           
+2         .  Y  .                 
+3      Y  .  .  .                 
+4      Y     .     X     .     .  
+5   .     .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                     .           
+9         .     .  X  Y  .        
+10     .     .        .           
+
+Turno: 45 de Team Angel
+Team Angel ataca a Team Kevin con C9
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1               .           .     
+2      .     .                    
+3   .     .     X     .           
+4   .  .     .     .           .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .                 .  
+7   Y  X  .           .     .     
+8   Y  .     X           .     .  
+9   X     .              .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 45 de Team Kevin
+Team Kevin ataca a Team Angel con B2
+Respuesta: Y
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .  X  .     .           
+2      Y  .  Y  .                 
+3      Y  .  .  .                 
+4      Y     .     X     .     .  
+5   .     .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                     .           
+9         .     .  X  Y  .        
+10     .     .        .           
+
+Turno: 46 de Team Angel
+Team Angel ataca a Team Kevin con F8
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1               .           .     
+2      .     .                    
+3   .     .     X     .           
+4   .  .     .     .           .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .                 .  
+7   Y  X  .           .     .     
+8   Y  .     X     .     .     .  
+9   X     .              .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 46 de Team Kevin
+Team Kevin ataca a Team Angel con B1
+Respuesta: X
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2      Y  .  Y  .                 
+3      Y  .  .  .                 
+4      Y     .     X     .     .  
+5   .     .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                     .           
+9         .     .  X  Y  .        
+10     .     .        .           
+
+Turno: 47 de Team Angel
+Team Angel ataca a Team Kevin con C1
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1         .     .           .     
+2      .     .                    
+3   .     .     X     .           
+4   .  .     .     .           .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .                 .  
+7   Y  X  .           .     .     
+8   Y  .     X     .     .     .  
+9   X     .              .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 47 de Team Kevin
+Team Kevin ataca a Team Angel con A2
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .                 
+3      Y  .  .  .                 
+4      Y     .     X     .     .  
+5   .     .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                     .           
+9         .     .  X  Y  .        
+10     .     .        .           
+
+Turno: 48 de Team Angel
+Team Angel ataca a Team Kevin con E9
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1         .     .           .     
+2      .     .                    
+3   .     .     X     .           
+4   .  .     .     .           .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .                 .  
+7   Y  X  .           .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .        .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 48 de Team Kevin
+Team Kevin ataca a Team Angel con A3
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .                 
+3   .  Y  .  .  .                 
+4      Y     .     X     .     .  
+5   .     .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                     .           
+9         .     .  X  Y  .        
+10     .     .        .           
+
+Turno: 49 de Team Angel
+Team Angel ataca a Team Kevin con E7
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1         .     .           .     
+2      .     .                    
+3   .     .     X     .           
+4   .  .     .     .           .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .                 .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .        .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 49 de Team Kevin
+Team Kevin ataca a Team Angel con B5
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .                 
+3   .  Y  .  .  .                 
+4      Y     .     X     .     .  
+5   .  .  .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                     .           
+9         .     .  X  Y  .        
+10     .     .        .           
+
+Turno: 50 de Team Angel
+Team Angel ataca a Team Kevin con J2
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1         .     .           .     
+2      .     .                 .  
+3   .     .     X     .           
+4   .  .     .     .           .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .                 .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .        .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 50 de Team Kevin
+Team Kevin ataca a Team Angel con A4
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .                 
+3   .  Y  .  .  .                 
+4   .  Y     .     X     .     .  
+5   .  .  .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                     .           
+9         .     .  X  Y  .        
+10     .     .        .           
+
+Turno: 51 de Team Angel
+Team Angel ataca a Team Kevin con A1
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .           .     
+2      .     .                 .  
+3   .     .     X     .           
+4   .  .     .     .           .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .                 .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .        .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 51 de Team Kevin
+Team Kevin ataca a Team Angel con C4
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .                 
+3   .  Y  .  .  .                 
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                     .           
+9         .     .  X  Y  .        
+10     .     .        .           
+
+Turno: 52 de Team Angel
+Team Angel ataca a Team Kevin con F6
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .           .     
+2      .     .                 .  
+3   .     .     X     .           
+4   .  .     .     .           .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .     .           .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .        .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 52 de Team Kevin
+Team Kevin ataca a Team Angel con I3
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .                 
+3   .  Y  .  .  .           .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                     .           
+9         .     .  X  Y  .        
+10     .     .        .           
+
+Turno: 53 de Team Angel
+Team Angel ataca a Team Kevin con I3
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .           .     
+2      .     .                 .  
+3   .     .     X     .     .     
+4   .  .     .     .           .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .     .           .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .        .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 53 de Team Kevin
+Team Kevin ataca a Team Angel con F2
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .  .              
+3   .  Y  .  .  .           .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                     .           
+9         .     .  X  Y  .        
+10     .     .        .           
+
+Turno: 54 de Team Angel
+Team Angel ataca a Team Kevin con H2
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .           .     
+2      .     .           .     .  
+3   .     .     X     .     .     
+4   .  .     .     .           .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .     .           .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .        .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 54 de Team Kevin
+Team Kevin ataca a Team Angel con J10
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .  .              
+3   .  Y  .  .  .           .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                     .           
+9         .     .  X  Y  .        
+10     .     .        .        .  
+
+Turno: 55 de Team Angel
+Team Angel ataca a Team Kevin con G9
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .           .     
+2      .     .           .     .  
+3   .     .     X     .     .     
+4   .  .     .     .           .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .     .           .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 55 de Team Kevin
+Team Kevin ataca a Team Angel con J2
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .           .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                     .           
+9         .     .  X  Y  .        
+10     .     .        .        .  
+
+Turno: 56 de Team Angel
+Team Angel ataca a Team Kevin con F2
+Respuesta: Y
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .           .     
+2      .     .     Y     .     .  
+3   .     .     X     .     .     
+4   .  .     .     .           .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .     .           .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 56 de Team Kevin
+Team Kevin ataca a Team Angel con J8
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .           .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                     .        .  
+9         .     .  X  Y  .        
+10     .     .        .        .  
+
+Turno: 57 de Team Angel
+Team Angel ataca a Team Kevin con F1
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .        .     
+2      .     .     Y     .     .  
+3   .     .     X     .     .     
+4   .  .     .     .           .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .     .           .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 57 de Team Kevin
+Team Kevin ataca a Team Angel con F8
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .           .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                  .  .        .  
+9         .     .  X  Y  .        
+10     .     .        .        .  
+
+Turno: 58 de Team Angel
+Team Angel ataca a Team Kevin con F3
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .        .     
+2      .     .     Y     .     .  
+3   .     .     X  .  .     .     
+4   .  .     .     .           .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .     .           .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 58 de Team Kevin
+Team Kevin ataca a Team Angel con F10
+Respuesta: X
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .           .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                  .  .        .  
+9         .     .  X  Y  .        
+10     .     .     X  .        .  
+
+Turno: 59 de Team Angel
+Team Angel ataca a Team Kevin con E2
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .        .     
+2      .     .  .  Y     .     .  
+3   .     .     X  .  .     .     
+4   .  .     .     .           .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .     .           .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 59 de Team Kevin
+Team Kevin ataca a Team Angel con H8
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .           .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .     
+6      X  Y  Y  .  .     .        
+7   .     .  .  .     .     X     
+8                  .  .  .     .  
+9         .     .  X  Y  .        
+10     .     .     X  .        .  
+
+Turno: 60 de Team Angel
+Team Angel ataca a Team Kevin con G2
+Respuesta: X
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .        .     
+2      .     .  .  Y  X  .     .  
+3   .     .     X  .  .     .     
+4   .  .     .     .           .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .     .           .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 60 de Team Kevin
+Team Kevin ataca a Team Angel con J6
+Respuesta: Y
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .           .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .     
+6      X  Y  Y  .  .     .     Y  
+7   .     .  .  .     .     X     
+8                  .  .  .     .  
+9         .     .  X  Y  .        
+10     .     .     X  .        .  
+
+Turno: 61 de Team Angel
+Team Angel ataca a Team Kevin con H4
+Respuesta: Y
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .        .     
+2      .     .  .  Y  X  .     .  
+3   .     .     X  .  .     .     
+4   .  .     .     .     Y     .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .     .           .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 61 de Team Kevin
+Team Kevin ataca a Team Angel con J5
+Respuesta: X
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .           .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .  X  
+6      X  Y  Y  .  .     .     Y  
+7   .     .  .  .     .     X     
+8                  .  .  .     .  
+9         .     .  X  Y  .        
+10     .     .     X  .        .  
+
+Turno: 62 de Team Angel
+Team Angel ataca a Team Kevin con H3
+Respuesta: Y
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .        .     
+2      .     .  .  Y  X  .     .  
+3   .     .     X  .  .  Y  .     
+4   .  .     .     .     Y     .  
+5   Y  Y  X     .     .     .     
+6   Y  .     .     .           .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 62 de Team Kevin
+Team Kevin ataca a Team Angel con J7
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .           .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .  X  
+6      X  Y  Y  .  .     .     Y  
+7   .     .  .  .     .     X  .  
+8                  .  .  .     .  
+9         .     .  X  Y  .        
+10     .     .     X  .        .  
+
+Turno: 63 de Team Angel
+Team Angel ataca a Team Kevin con H5
+Respuesta: X
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .        .     
+2      .     .  .  Y  X  .     .  
+3   .     .     X  .  .  Y  .     
+4   .  .     .     .     Y     .  
+5   Y  Y  X     .     .  X  .     
+6   Y  .     .     .           .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 63 de Team Kevin
+Team Kevin ataca a Team Angel con I6
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .           .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .  X  
+6      X  Y  Y  .  .     .  .  Y  
+7   .     .  .  .     .     X  .  
+8                  .  .  .     .  
+9         .     .  X  Y  .        
+10     .     .     X  .        .  
+
+Turno: 64 de Team Angel
+Team Angel ataca a Team Kevin con G4
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .        .     
+2      .     .  .  Y  X  .     .  
+3   .     .     X  .  .  Y  .     
+4   .  .     .     .  .  Y     .  
+5   Y  Y  X     .     .  X  .     
+6   Y  .     .     .           .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 64 de Team Kevin
+Team Kevin ataca a Team Angel con G3
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .     .     .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .  X  
+6      X  Y  Y  .  .     .  .  Y  
+7   .     .  .  .     .     X  .  
+8                  .  .  .     .  
+9         .     .  X  Y  .        
+10     .     .     X  .        .  
+
+Turno: 65 de Team Angel
+Team Angel ataca a Team Kevin con I4
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .        .     
+2      .     .  .  Y  X  .     .  
+3   .     .     X  .  .  Y  .     
+4   .  .     .     .  .  Y  .  .  
+5   Y  Y  X     .     .  X  .     
+6   Y  .     .     .           .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 65 de Team Kevin
+Team Kevin ataca a Team Angel con I9
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .     .     .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .  X  
+6      X  Y  Y  .  .     .  .  Y  
+7   .     .  .  .     .     X  .  
+8                  .  .  .     .  
+9         .     .  X  Y  .  .     
+10     .     .     X  .        .  
+
+Turno: 66 de Team Angel
+Team Angel ataca a Team Kevin con H6
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .        .     
+2      .     .  .  Y  X  .     .  
+3   .     .     X  .  .  Y  .     
+4   .  .     .     .  .  Y  .  .  
+5   Y  Y  X     .     .  X  .     
+6   Y  .     .     .     .     .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 66 de Team Kevin
+Team Kevin ataca a Team Angel con A9
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .     .     .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .  X  
+6      X  Y  Y  .  .     .  .  Y  
+7   .     .  .  .     .     X  .  
+8                  .  .  .     .  
+9   .     .     .  X  Y  .  .     
+10     .     .     X  .        .  
+
+Turno: 67 de Team Angel
+Team Angel ataca a Team Kevin con G1
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .  .     .     
+2      .     .  .  Y  X  .     .  
+3   .     .     X  .  .  Y  .     
+4   .  .     .     .  .  Y  .  .  
+5   Y  Y  X     .     .  X  .     
+6   Y  .     .     .     .     .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .     .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 67 de Team Kevin
+Team Kevin ataca a Team Angel con D8
+Respuesta: X
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .     .     .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .  X  
+6      X  Y  Y  .  .     .  .  Y  
+7   .     .  .  .     .     X  .  
+8            X     .  .  .     .  
+9   .     .     .  X  Y  .  .     
+10     .     .     X  .        .  
+
+Turno: 68 de Team Angel
+Team Angel ataca a Team Kevin con I8
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .  .     .     
+2      .     .  .  Y  X  .     .  
+3   .     .     X  .  .  Y  .     
+4   .  .     .     .  .  Y  .  .  
+5   Y  Y  X     .     .  X  .     
+6   Y  .     .     .     .     .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .  .  .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 68 de Team Kevin
+Team Kevin ataca a Team Angel con H10
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .           
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .     .     .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .  X  
+6      X  Y  Y  .  .     .  .  Y  
+7   .     .  .  .     .     X  .  
+8            X     .  .  .     .  
+9   .     .     .  X  Y  .  .     
+10     .     .     X  .  .     .  
+
+Turno: 69 de Team Angel
+Team Angel ataca a Team Kevin con D3
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .  .     .     
+2      .     .  .  Y  X  .     .  
+3   .     .  .  X  .  .  Y  .     
+4   .  .     .     .  .  Y  .  .  
+5   Y  Y  X     .     .  X  .     
+6   Y  .     .     .     .     .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .  .  .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 69 de Team Kevin
+Team Kevin ataca a Team Angel con I1
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .     .     
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .     .     .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .  X  
+6      X  Y  Y  .  .     .  .  Y  
+7   .     .  .  .     .     X  .  
+8            X     .  .  .     .  
+9   .     .     .  X  Y  .  .     
+10     .     .     X  .  .     .  
+
+Turno: 70 de Team Angel
+Team Angel ataca a Team Kevin con C6
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .  .     .     
+2      .     .  .  Y  X  .     .  
+3   .     .  .  X  .  .  Y  .     
+4   .  .     .     .  .  Y  .  .  
+5   Y  Y  X     .     .  X  .     
+6   Y  .  .  .     .     .     .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .  .  .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 70 de Team Kevin
+Team Kevin ataca a Team Angel con B8
+Respuesta: Y
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .     .     
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .     .     .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .  X  
+6      X  Y  Y  .  .     .  .  Y  
+7   .     .  .  .     .     X  .  
+8      Y     X     .  .  .     .  
+9   .     .     .  X  Y  .  .     
+10     .     .     X  .  .     .  
+
+Turno: 71 de Team Angel
+Team Angel ataca a Team Kevin con C2
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .  .     .     
+2      .  .  .  .  Y  X  .     .  
+3   .     .  .  X  .  .  Y  .     
+4   .  .     .     .  .  Y  .  .  
+5   Y  Y  X     .     .  X  .     
+6   Y  .  .  .     .     .     .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .  .  .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 71 de Team Kevin
+Team Kevin ataca a Team Angel con B7
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .     .     
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .     .     .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .  X  
+6      X  Y  Y  .  .     .  .  Y  
+7   .  .  .  .  .     .     X  .  
+8      Y     X     .  .  .     .  
+9   .     .     .  X  Y  .  .     
+10     .     .     X  .  .     .  
+
+Turno: 72 de Team Angel
+Team Angel ataca a Team Kevin con C4
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .  .     .     
+2      .  .  .  .  Y  X  .     .  
+3   .     .  .  X  .  .  Y  .     
+4   .  .  .  .     .  .  Y  .  .  
+5   Y  Y  X     .     .  X  .     
+6   Y  .  .  .     .     .     .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .  .  .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 72 de Team Kevin
+Team Kevin ataca a Team Angel con B9
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .     .     
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .     .     .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .  X  
+6      X  Y  Y  .  .     .  .  Y  
+7   .  .  .  .  .     .     X  .  
+8      Y     X     .  .  .     .  
+9   .  .  .     .  X  Y  .  .     
+10     .     .     X  .  .     .  
+
+Turno: 73 de Team Angel
+Team Angel ataca a Team Kevin con J3
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .  .     .     
+2      .  .  .  .  Y  X  .     .  
+3   .     .  .  X  .  .  Y  .  .  
+4   .  .  .  .     .  .  Y  .  .  
+5   Y  Y  X     .     .  X  .     
+6   Y  .  .  .     .     .     .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .  .  .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 73 de Team Kevin
+Team Kevin ataca a Team Angel con A8
+Respuesta: Y
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .     .     
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .     .     .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .  X  
+6      X  Y  Y  .  .     .  .  Y  
+7   .  .  .  .  .     .     X  .  
+8   Y  Y     X     .  .  .     .  
+9   .  .  .     .  X  Y  .  .     
+10     .     .     X  .  .     .  
+
+Turno: 74 de Team Angel
+Team Angel ataca a Team Kevin con J1
+Respuesta: .
+    A  B  C  D  E  F  G  H  I  J  
+1   .     .     .  .  .     .  .  
+2      .  .  .  .  Y  X  .     .  
+3   .     .  .  X  .  .  Y  .  .  
+4   .  .  .  .     .  .  Y  .  .  
+5   Y  Y  X     .     .  X  .     
+6   Y  .  .  .     .     .     .  
+7   Y  X  .     .     .     .     
+8   Y  .     X     .     .  .  .  
+9   X     .     .     .  .  .  X  
+10     .     .     .  X  Y  .  Y  
+
+Turno: 74 de Team Kevin
+Team Kevin ataca a Team Angel con C8
+Respuesta: X
+    A  B  C  D  E  F  G  H  I  J  
+1   .  X  .  X  .     .     .     
+2   .  Y  .  Y  .  .           .  
+3   .  Y  .  .  .     .     .     
+4   .  Y  .  .     X     .     .  
+5   .  .  .  .  .     .     .  X  
+6      X  Y  Y  .  .     .  .  Y  
+7   .  .  .  .  .     .     X  .  
+8   Y  Y  X  X     .  .  .     .  
+9   .  .  .     .  X  Y  .  .     
+10     .     .     X  .  .     .  

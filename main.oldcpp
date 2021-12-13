@@ -1,0 +1,16 @@
+#include "jugador.h"
+#include <string>
+
+int main(){
+
+	Jugador *Luchito = new Jugador("FirstPlayer", "Team Lucho");
+	Jugador *PC = new Jugador("SecondPlayer", "Computadora");
+
+	Luchito -> empezar();
+	while(Luchito -> jugar());
+
+	delete Luchito;
+	delete PC;
+
+	return 0;
+}

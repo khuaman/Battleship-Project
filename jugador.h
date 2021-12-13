@@ -5,6 +5,9 @@ using namespace std;
 class Jugador{
 private:
 
+	string filename;
+	string teamname;
+	string token;
 	int rows;
 	int cols;
 	Mapa *mapa;
@@ -12,7 +15,9 @@ private:
 
 public:
 
-	Jugador(){
+	Jugador(string _filename, string _teamname){
+		filename = _filename;
+		teamname = _teamname;
 		rows = cols = 10;
 		mapa = new Mapa(rows, cols);
 		mapa -> generar();
@@ -24,15 +29,27 @@ public:
 		}
 	}
 
+	string getTeam(){
+		return teamname;
+	}
+
 	string jugada();
 	string parse(point coord);
 	point dfs(point coord);
+	void empezar();
+	bool jugar();
 
 	bool derrotado(){
 		for(auto nave: *(mapa -> naves))
 			if( !(nave -> destruido()))
 				return false;
 		return true;
+	}
+
+	point deparse(string jugada){
+		int x = stoi( jugada.substr(1, (int)jugada.size() - 1) ) - 1;
+		int y = toupper(jugada[ 0 ]) - 'A';
+		return {x, y};
 	}
 
 	char getVal(point coords){
