@@ -1,34 +1,31 @@
 #include "jugador.h"
 #include <string>
 
-int main(){
+int main() {
 
 	srand(time(NULL));
 
-	Jugador *Angel = new Jugador("FirstPlayer", "Angel");
-	Jugador *PC = new Jugador("SecondPlayer", "PC");
+	Jugador* Angel = new Jugador("FirstPlayer", "Team Angel");
+	Angel->empezar(); Angel->registrar();
 
-	string ataque;
-	int t = 1;
+	Jugador* Kevin = new Jugador("SecondPlayer", "Team Kevin");
+	Kevin->empezar(); Kevin->registrar();
 
-	PC -> mostrar();
-
-	while( !(PC -> derrotado()) ){
-		cout << endl;
-		cout << "Turno: " << t++ << " de " << Angel -> getTeam() << endl;
-		ataque = Angel -> jugada();
-		cout << ataque << endl;
-		char respuesta = PC -> responder( PC -> deparse(ataque) );
-		cout << Angel -> getTeam() << " ataca a " << PC -> getTeam() << " con " << ataque << endl;
-		Angel -> setRespuesta( Angel -> deparse(ataque) , respuesta );
-		cout << "Respuesta: " << respuesta << endl;
-		Angel -> mostrarEnemigo();
+	while (true) {
+		if (Angel->turno()) {
+			if (Angel->jugar() == false) break;
+		}
+		else if (Kevin->turno()) {
+			if (Kevin->jugar() == false) break;
+		}
+		else break;
+		Angel->mostrarEnemigo();
+		Kevin->mostrarEnemigo();
+		cout << "--" << endl;
 	}
 
-	PC -> mostrar();
-
 	delete Angel;
-	delete PC;
+	delete Kevin;
 
 	return 0;
 }
