@@ -13,13 +13,16 @@ using namespace std;
 
 class Zona{
 protected:
-	bool agua = true;
+	bool agua;
 	char codigo;
 	point coords;
 public:
 	Zona(char _codigo, point _coords){
 		codigo = _codigo;
 		coords = _coords;
+	}
+	virtual bool isAgua(){
+		return true;
 	}
 	virtual char signo(point _coords){
 		return codigo;
@@ -46,7 +49,6 @@ private:
 public:
 
 	Nave(char _codigo ,char _orientacion, point _coords):Zona(_codigo, _coords){
-		agua = false;
 		orientacion = _orientacion;
 		switch( codigo ){
 		case 'A':
@@ -73,6 +75,10 @@ public:
 		if( destruido() ) return 'X';
 		int i = max(_coord.C - coords.C,  _coord.F - coords.F);
 		return estado[ i ] ? codigo : 'Y';
+	}
+
+	bool isAgua(){
+		return false;
 	}
 
 	void mostrar(){
